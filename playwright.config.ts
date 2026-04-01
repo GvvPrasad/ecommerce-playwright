@@ -34,9 +34,6 @@ export default defineConfig({
     timeout: 15 * 1000,
   },
 
-  // Give failing tests 3 retry attempts
-  retries: 1,
-
   use: {
 
     //executive the test in slow motion
