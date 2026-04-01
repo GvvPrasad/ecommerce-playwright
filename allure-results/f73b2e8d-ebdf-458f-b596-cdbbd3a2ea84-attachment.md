@@ -1,0 +1,1761 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e7]:
+          - generic [ref=e8]:
+            - generic "Open" [ref=e10] [cursor=pointer]:
+              - img [ref=e11]
+            - link "English" [ref=e17] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/
+              - text: English
+            - generic "Specials" [ref=e21] [cursor=pointer]: Specials
+          - link "Loans up to ₹50 Lakhs" [ref=e24] [cursor=pointer]:
+            - /url: https://www.moneycontrolpay.com/
+            - img [ref=e27]
+          - generic [ref=e667]:
+            - textbox "Search Quotes, News, Mutual Fund NAVs" [ref=e670]
+            - link "Submit" [ref=e671] [cursor=pointer]:
+              - /url: ""
+              - img [ref=e672]
+          - list [ref=e675]:
+            - listitem [ref=e676]:
+              - generic [ref=e677]:
+                - img [ref=e679]
+                - link "Hello, Login" [ref=e685] [cursor=pointer]:
+                  - /url: ""
+          - link "Premium" [ref=e687] [cursor=pointer]:
+            - /url: https://www.moneycontrol.com/promos/pro.php
+          - link "My Alerts" [ref=e689] [cursor=pointer]:
+            - /url: https://www.moneycontrol.com/my-alerts
+            - img [ref=e691]
+            - text: My Alerts
+        - generic [ref=e695]:
+          - generic:
+            - generic [ref=e696]:
+              - link "Moneycontrol" [ref=e697] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/
+                - img "Moneycontrol" [ref=e698]
+              - link "Go PRO Now" [ref=e699] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/promos/pro.php
+                - generic [ref=e700]: Go PRO Now
+            - iframe [ref=e706]:
+              - link [ref=f13e2] [cursor=pointer]:
+                - /url: https://googleads.g.doubleclick.net/pcs/click?xai=AKAOjsvHskuOjZ-bO-dioKHn2hCCBIEQgBAxFJv8ih1E1YNQbkdy9S1CGd35jlHn10tsp7lqQ8Z_Z7ucTlGPbjP9mWnhPKcumy--jdTdRXrkvMHN1cucIj7SpCIfotx_ZLOfTvK0-n-K0cpKVU8eSoUMT9WQk4C5DmL4_G13rk-1DXpuxIwvMWgWeaO5698M_AsldWFS7cFIplsK--LwN8ue78UcgfOgd_4Zp5QikSU75f2flMM5vXWa9RDvbCl5AMXC-wn3oSGJwNO7rSx52K7ezxOFUBcu0KZL3UJw0NfozX1tNw2UAtr08BjGgaAidfjS5kt1l7BOdk3DuOgf0GaE9TsGhzO7TxxV7_SY5qVncTHE58M77CHhcFcsOFOzonDiC_b6nRFNrmsyfEBVtAcT7LsOsqopsmPdB3yD0qT3c9vpsdolc9l3Iy6IAGE0E5ZXV18qFmR9yNP0VrCX-aNLxcGs&sai=AMfl-YQnJ7WuMtESSYCPn4wEzOY0nnmHw6DCemJ46XnmqVhOhxu3FwNy_OP6MKXgvKD0NuchLrlHyFWloy3L8FKEmiWq5r8WKlXjWAUgvTNiPxc8pkWy9yreHXiNpwnRXjLUvsS8munshbEAzWasj9_btC0jR9dTJMyZYIyh7XcP_DDuNZWihO5iNGCMzYRChXrAttUWDB2RwRVQ8wdu2iAj6bygSx5Q814zSO44XzD_K9VUstzgpbxcTxsXtpoiygnSYRBSRpjCQQFYB6uPMnBP2fgY5DcxdASAzJOKpb2HvX0ocyFOIAFYDa5vMNv84m5ir53q_a9mc6ag8a9gfsBxiaaVYyT8rTEKVbUtuOMTCEuEV5QJ7j_UraMN40i3N2XL&sig=Cg0ArKJSzIhl7ZMFkCN_&fbs_aeid=%5Bgw_fbsaeid%5D&adurl=https://www.moneycontrolpay.com/%3Futm_source%3DMnctrlStaticROSEnglish
+        - generic [ref=e707]:
+          - navigation [ref=e708]:
+            - list [ref=e710]:
+              - listitem [ref=e711]:
+                - link "Home" [ref=e712] [cursor=pointer]:
+                  - /url: https://www.moneycontrol.com/
+                  - img [ref=e713]
+              - listitem [ref=e716]:
+                - link "PRO" [ref=e717] [cursor=pointer]:
+                  - /url: https://www.moneycontrol.com/pro-top-stories
+              - listitem [ref=e718]:
+                - link "Markets" [ref=e719] [cursor=pointer]:
+                  - /url: https://www.moneycontrol.com/stocksmarketsindia/
+                  - text: Markets
+              - listitem [ref=e721]:
+                - link "News" [ref=e722] [cursor=pointer]:
+                  - /url: https://www.moneycontrol.com/news/
+                  - text: News
+              - listitem [ref=e724]:
+                - link "T20 WC 2026" [ref=e725] [cursor=pointer]:
+                  - /url: https://www.moneycontrol.com/sports/cricket/icc-mens-t20-world-cup/
+                  - generic [ref=e726]: T20 WC 2026
+              - listitem [ref=e727]:
+                - link "Editor's Picks" [ref=e728] [cursor=pointer]:
+                  - /url: https://www.moneycontrol.com/editors-picks/
+              - listitem [ref=e729]:
+                - link "Tech" [ref=e730] [cursor=pointer]:
+                  - /url: https://www.moneycontrol.com/news/technology-startups
+              - listitem [ref=e731]:
+                - link "India" [ref=e732] [cursor=pointer]:
+                  - /url: https://www.moneycontrol.com/news/india/
+              - listitem [ref=e733]:
+                - link "Learning Curve" [ref=e734] [cursor=pointer]:
+                  - /url: https://www.moneycontrol.com/courses/
+              - listitem [ref=e735]:
+                - link "Portfolio" [ref=e736] [cursor=pointer]:
+                  - /url: https://www.moneycontrol.com/india/bestportfoliomanager/investment-tool
+              - listitem [ref=e737]:
+                - link "Watchlist" [ref=e738] [cursor=pointer]:
+                  - /url: https://www.moneycontrol.com/watchlist/
+              - listitem [ref=e739]:
+                - link "Commodities" [ref=e740] [cursor=pointer]:
+                  - /url: https://www.moneycontrol.com/commodity/
+              - listitem [ref=e741]:
+                - link "MF" [ref=e742] [cursor=pointer]:
+                  - /url: https://www.moneycontrol.com/mutual-funds/
+                  - text: MF
+              - listitem [ref=e744]:
+                - link "PF" [ref=e745] [cursor=pointer]:
+                  - /url: https://www.moneycontrol.com/personal-finance/
+                  - text: PF
+              - listitem [ref=e747]:
+                - link "Forum" [ref=e748] [cursor=pointer]:
+                  - /url: https://mmb.moneycontrol.com/
+                  - text: Forum
+              - listitem [ref=e750]:
+                - link "Videos" [ref=e751] [cursor=pointer]:
+                  - /url: https://www.moneycontrol.com/video-shows/
+                  - text: Videos
+              - listitem [ref=e753]:
+                - link "Invest Now" [ref=e754] [cursor=pointer]:
+                  - /url: "#"
+                  - text: Invest Now
+              - listitem
+          - list [ref=e759]:
+            - listitem [ref=e760]:
+              - link "Global Markets" [ref=e761] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/markets/global-indices/
+            - listitem [ref=e762]:
+              - link "Indian Indices" [ref=e763] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/markets/indian-indices/
+            - listitem [ref=e764]:
+              - link "Economic Calendar" [ref=e765] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/economic-calendar
+            - listitem [ref=e766]:
+              - link "IPO" [ref=e767] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/ipo/
+            - listitem [ref=e768]:
+              - link "All Stats" [ref=e769] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/stocks/marketstats/index.php
+            - listitem [ref=e770]:
+              - link "Unlisted Shares" [ref=e771] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/markets/unlisted-shares/top-companies/
+                - text: Unlisted Shares
+                - superscript [ref=e772]:
+                  - img [ref=e773]
+            - listitem [ref=e780]:
+              - link "Technical Trends" [ref=e781] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/markets/technical-trends/
+            - listitem [ref=e782]:
+              - link "Earnings" [ref=e783] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/markets/earnings/
+            - listitem [ref=e784]:
+              - link "Stock Deals" [ref=e785] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/markets/stock-deals/
+            - listitem [ref=e786]:
+              - link "Big Shark Portfolios" [ref=e787] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/india-investors-portfolio/
+            - listitem [ref=e788]:
+              - link "US Markets" [ref=e789] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/us-markets
+            - listitem [ref=e790]:
+              - link "Seasonality Analysis" [ref=e791] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/markets/seasonality-analysis/
+            - listitem [ref=e792]:
+              - link "Stock Scanner" [ref=e793] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/stock-scanner/fundamental/
+    - main [ref=e794]:
+      - generic [ref=e796]:
+        - navigation "Breadcrumb" [ref=e799]:
+          - text: "you are here:"
+          - list [ref=e800]:
+            - listitem [ref=e801]:
+              - link "MoneyControl" [ref=e802] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/
+              - text: /
+            - listitem [ref=e803]:
+              - link "Markets" [ref=e804] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/stocksmarketsindia/
+              - text: /
+            - listitem [ref=e805]: Market Capitalisation
+        - generic [ref=e806]:
+          - generic [ref=e807]:
+            - iframe [ref=e814]:
+              - iframe [ref=f17e1]:
+                - generic [ref=f21e2]:
+                  - link "Advertisement" [ref=f21e4] [cursor=pointer]:
+                    - /url: https://adclick.g.doubleclick.net/pcs/click?xai=AKAOjsuNYYdyQ6UPVFCD6TBQBVVqCOOS-iXOHbEcVYh5IxIvMR0ysTacAZjnnQ2jP6MgvMZG4SotKZ-SJFTzCW61sRNzRgDhCiApAavNh6xkE6IiX4r21AxrlU9USuaFx39cGH6Q1n1aOILhwf8IFX8PSFx_nKj0kEQ0M0YdZ5Ddx3wk4sDX8FZrbMKMrTCOYf0lYhrslRf1zScY2fi5bC0B4uDR_GV2T-LxZtaki5_HEIxCjWhZSQRGKfgAUiihOsOYmZeZPICeI9xm0otDCkA_YRlUcfAAhkEi040xexhKDC4Nz8CtyaCRSImhY82gpRAPP7Sz7D20b26VDTooAsNaV6kM_jEbyUDr3DGzoegrgQAl7i9cKWmd0TznvUDhxfwh5XhhbUZ8ijt3oCS8lGufdqYxlSyqN-rlPWj6trKlpbVYBeABxp_wyWPRPmQw2AzamC2OKIWGDkC9nTj-kEzbAaH4HCQGMWzmPa4JMOr9c-yJcW1kTQRg1oEwGVGqZNm8Dh-prMJ3dnSCO3A7IbHU1xNzbhWDpwJht1dWFuvt2GemKgyjVRlUwHElsYAbrAFd0KPwiG7rtpJ4N2cAAHLpzkSU0miqnpwF9hkuDaJW6gu_nTYLHvMOAFZaVsEBUf9vC4pqjfGhgoNF6mOdJ4w81aIZ4ym_2UHAovfM3D6j_syt9o0FaKzqtsVHJtaGvRNwfsmk_6AgbO1Y4T7ftP6-Z2RzgRQng7L8rwd9AiAqsj_9Y2x_IrrX7Oam3IGo2gYDT07XVvjRV52JP8Kr5BKDvmvUjit9g0IJKbPg6EHDt7Oxbxd3OqNcXafOtIOsKtVMAd5BTq-lor3TCO3xUg6yc4QGGXDBr_7RXESPYd7W6BaIRwQRpo-EHjQOLaPTZzJZOnS0hqgOV3n062TKxdkkeA24s5u8wXw7oQZ7_2OUfT4BXZGoUvPBVr0oLrJfM5s5qertzDo7Spt8_aKgR-AFI8RPcDXoHzNgB3VbHF9Oph70IDFXPfq-SErj6XsbXFxC9InaXtxIynVvqIubNoGFcBrYtr1R-BF-ydxctVxKOkQGzugd29jqXICqvN14aeKezKMQneSoTI9sMscltiBJUHYIfZBUwI-GJoIxVWFvEe6TeUXlNJN_oLWbKdU6BA9D7HFeqW4YFD9pwnBn9YCiJCMQqiTnmUnGRDtCxj3LbZeIKaPzD7hLpmfrLw-YT5HWFmOvNslpW_MnnO2Z92PsLUyDSEco8L0XhVWWL8fz4bD5bIMrDinpGwKVeoh5ulq1IEOEj3goAsdubGEpBZGVIwo7_fFqjyrGvTKZ373hlJ8Vt8EhKUwarUO_ev_zbHDOe-MYrvbx9PZTNTMD0bJmt7sWtfHAvY8z_ZuM969esCGof69_Fk3bNh9Hoh2uv9Atq1XwwokSwuIYN8BDdmS0iD0WASC2vwF60cK158vFUHNFQzQsmJjrMDRwMkj1Fy9hIfpUvYmz_Ced0Z7v9OAQtXECN6ZEZh0gtfIxNZDP_utxgNpijnRppCsMFv36Uh_VUadVUiA_Z-HEB4JX-5RYXJ6_dDAU0-wKTJlu0GYF3GQ7p9pom4-X7DPuJGE7HTUvpc_s3CmprGKnsows8_frbjYUwreBTsDrFn1Bi_JuflOVbXkQyhF_XEs5T6m1cCWSiifgE1ocCdJZjgPJICZzDg46_mrnkLERLsObhpB8xoqA-vweCX-j8E-wniVLW4JhFFR37sfwymtZHzbSTSfczyUZ1zzFoZg25jV4kpUPUpOi7rfsuTY--SMKKAEqUq0L4m5lj7R9G1h-a69WZ52Ow6TMW01CKAP6naJso2hL7uL5jADL4giBdmceD_U0NhCfDW_zlQTrLruJDLurE3B-PomwIT9E6iJqWDaCd4Eo_xdk361l5faKpQ_mNKsbZ-TKmMPP9NGqZ4fJgre1rYlZjzHdA5D0-vhwmyqwT8A5tdL8b-18Kjlih4o0ueHNLsZ3pUrLSUSF2MFHzhLXRLn-egxpVquFih3mqc9lXxATfcsilX96Rq3xF22nSv2WMKn6KJlPbQ2YMjXo2xGnqyXPAV8dnRyp-m8rJOAVwuPftg&sai=AMfl-YRfTmTaNj5cy-Q-Ug_MQoZykUSJ8vyb--01TydXr3oUQPatbX_-mTWz4mYOJ_MZiJT3u2M5kfqZzDt27qRV68YSbzXsOwT-bBVNEDkrjP1pCOzM2XNQdePwTs3qDyhYHZ_Y2bI3UM3Asf0mx25qjmgDvBAEPkdzHSd84FavtIOiNBQV_Xk7Ckw4AFT6uWsrzzpgV6hiTyCX6g1OJU3UZqY-t47hx1ZYaWyA7AmfO_JHIlU4foOYiM6wJtE1sRuMmoFVYZEW7-gq1UH-4dY9UdVq3hoEaKhEHt_gl-yZT2Ga7y2FL0dk6CmRU64ajqT0lUgpAqG_u5iHW3AvrYBgg1cP2Y0pZxGQL1_rJ5br6FZgiMalqKgJnpfzXAVo8AHLibQmWpgaAgqHeu8rWZSmNJJo1kuzcdV-Ko_TT_WJ9-5_jQaIWla1t4Bnc87Hg6BDNCY-zEoSY0QRfYJgWNMlzVN-9GmcbvOVG_bnPqWU6gOBCMl-4Oef4i7XMT1nRWxG9_ZpGNhtmkD-WZe0ZElmvHBCqweqNcKYBG2xKpaN7Lze0Au7Gys8fm1bRRQLD3uttF9_EeYM0XKaHA_DNHCIinH02skOujTAembR1AIU1mL_nQm0NcEKZIbR3wNsGSKA-0HRhY3adkq78EjBKgWQIrlb2eaooPpC_9pW3vAQYS3J5XNo0eEmqM8aZs3NPRnbH_183P4vSicYPk2Pz4rwaG64xAXad50Pp7HRlaoZZ82Ir1OKhCnl96wj26d39g9U8ZPMsknXNbCFjtLGu3qGoOK8lHvyugsKbSFiOELJqpbOpEcWktyzRE3jdi-fFgTEUuRTgyTdeacCPxreyqhjoOmI0DLpDn8RdI9d5JQ7KGHds3tvANJwIsOD3u9uaPZEAQ5Sw6k&sig=Cg0ArKJSzFm5K_Loa_jm&fbs_aeid=%5Bgw_fbsaeid%5D&urlfix=1&adurl=https://ads.google.com/intl/en_in/start/lg/%3Fsubid%3Din-en-adon-awa-dis-a-ohjb!o3~AMsySZZLzxc7-cMLlC21VSGhYQJx~437188549~630763732~245311032~OPTID-8066250%26utm_source%3Dawa%26utm_medium%3Ddv360%26dclid%3D%25edclid!%26gad_source%3D7%26gad_campaignid%3D23395038444
+                    - img "Advertisement" [ref=f21e5]
+                  - generic [ref=f21e6]:
+                    - generic:
+                      - img [ref=f21e10] [cursor=pointer]
+                      - button [ref=f21e12] [cursor=pointer]:
+                        - img [ref=f21e13]
+            - generic [ref=e815]:
+              - generic [ref=e816]:
+                - heading "Top Companies in India by Market Capitalisation - NSE" [level=1] [ref=e817]
+                - generic [ref=e818]:
+                  - list [ref=e820]:
+                    - listitem [ref=e821] [cursor=pointer]:
+                      - strong [ref=e824]: BSE
+                    - listitem [ref=e825] [cursor=pointer]:
+                      - strong [ref=e828]: NSE
+                  - generic [ref=e829]:
+                    - img "absmiddle" [ref=e831]
+                    - text: 1 Apr 15:59
+              - generic [ref=e832]:
+                - paragraph [ref=e833]:
+                  - strong [ref=e834]: Sectoral Screener
+                - generic [ref=e836]:
+                  - combobox [ref=e838]:
+                    - option "Criteria"
+                    - option "Market Capitalisation" [selected]
+                    - option "Net Sales"
+                    - option "Net Profit"
+                    - option "Total Assets"
+                    - option "Other Income"
+                    - option "Interest"
+                    - option "Tax"
+                    - option "EPS"
+                    - option "Sundry Debtors"
+                    - option "Cash/Bank"
+                    - option "Inventory"
+                    - option "Debt"
+                    - option "Contingent Liabilities"
+                  - combobox [ref=e840]:
+                    - option "Sector" [selected]
+                    - option "Abrasives"
+                    - option "Aerospace & Defence"
+                    - option "Agriculture"
+                    - option "Air Conditioners"
+                    - option "Airlines"
+                    - option "Aluminium & Aluminium Products"
+                    - option "Amusement Parks/Recreation/Club"
+                    - option "Aquaculture"
+                    - option "Auto Ancillaries"
+                    - option "Auto Ancillaries - Air Conditioning Parts"
+                    - option "Auto Ancillaries - Auto, Truck & Motorcycle Parts"
+                    - option "Auto Ancillaries - Axle shafts"
+                    - option "Auto Ancillaries - Bearings"
+                    - option "Auto Ancillaries - Brakes"
+                    - option "Auto Ancillaries - Bus Body"
+                    - option "Auto Ancillaries - Castings/Forgings"
+                    - option "Auto Ancillaries - Clutches"
+                    - option "Auto Ancillaries - Diesel Engines"
+                    - option "Auto Ancillaries - Engine Parts"
+                    - option "Auto Ancillaries - Gears"
+                    - option "Auto Ancillaries - Head lamps & lights"
+                    - option "Auto Ancillaries - Others"
+                    - option "Auto Ancillaries - Pistons"
+                    - option "Auto Ancillaries - Seating covers & parts"
+                    - option "Auto Ancillaries - Sheet Metals"
+                    - option "Auto Ancillaries - Shock absorbers"
+                    - option "Auto Ancillaries - Spare Parts & Accessories"
+                    - option "Auto Ancillaries - Springs"
+                    - option "Auto Ancillaries - Tyres & Rubber Products"
+                    - option "Auto Ancillaries - Wheels"
+                    - option "Auto Ancillary"
+                    - option "Automobile - 2 & 3 Wheelers"
+                    - option "Automobile - Auto & Truck Manufacturers"
+                    - option "Automobile - Dealers & Distributors"
+                    - option "Automobile - LCVS/ HVCS"
+                    - option "Automobile - Passenger Cars"
+                    - option "Automobile - Tractors"
+                    - option "Automobile - Trucks/LCVs"
+                    - option "Bank - Private"
+                    - option "Bank - Public"
+                    - option "Batteries"
+                    - option "Beverages"
+                    - option "Biotechnology & Medical Research"
+                    - option "BPO/ITeS"
+                    - option "Breweries & Distilleries"
+                    - option "Cable & D2H"
+                    - option "Cables"
+                    - option "Carbon Black"
+                    - option "Cement"
+                    - option "Cement & Construction Materials"
+                    - option "Ceramics/Marble/Granite/Sanitaryware"
+                    - option "Chemicals"
+                    - option "Cigarettes/Tobacco"
+                    - option "Coal"
+                    - option "Commodity Chemicals"
+                    - option "Compressors / Pumps"
+                    - option "Computer Peripherals"
+                    - option "Construction - Infrastructure"
+                    - option "Construction - Real Estate"
+                    - option "Construction - Residential & Commercial Complexes"
+                    - option "Consumer Food"
+                    - option "Containers & Packaging"
+                    - option "Courier Services"
+                    - option "Cycles"
+                    - option "Defence"
+                    - option "Detergents & Soaps"
+                    - option "Diamond & Jewellery"
+                    - option "Diversified"
+                    - option "Diversified Chemicals"
+                    - option "Domestic Appliances"
+                    - option "Dyes & Pigments"
+                    - option "Education Institution"
+                    - option "Educational Institutions"
+                    - option "Electric Equipment"
+                    - option "Electric Equipment - Boilers / Turbines"
+                    - option "Electric Equipment - Switchgears"
+                    - option "Electric Equipment - Transformers"
+                    - option "Electrodes & Electrical Equipments"
+                    - option "Electrodes & Welding Equipment"
+                    - option "Electronic Goods"
+                    - option "electronics"
+                    - option "Electronics - Components"
+                    - option "Engineeing"
+                    - option "Engineering"
+                    - option "Engineering"
+                    - option "Engineering & Construction"
+                    - option "Engineering - Construction"
+                    - option "Engineering - Industrial Equipments"
+                    - option "ETF"
+                    - option "Fasteners"
+                    - option "Ferro Manganese"
+                    - option "Fertilizers"
+                    - option "Film Production, Distribution & Entertainment"
+                    - option "Finance & Investments"
+                    - option "Finance - Housing"
+                    - option "Finance - Investment"
+                    - option "Finance - Investments"
+                    - option "Finance - NBFC"
+                    - option "Finance - Others"
+                    - option "Finance - Stock Broking"
+                    - option "Finance Term Lending"
+                    - option "Fish/Poultry & Meat Products"
+                    - option "Food & Drug Retailing"
+                    - option "Food Processing"
+                    - option "Footwear"
+                    - option "Gas Distribution"
+                    - option "Glass & Glass Products"
+                    - option "Gold"
+                    - option "Gold ETF"
+                    - option "Ground Freight & Logistics Services"
+                    - option "Hospital & Healthcare Services"
+                    - option "Hotel, Resort & Restaurants"
+                    - option "Hotel,Resort & Restaurants"
+                    - option "Household & Personal Products"
+                    - option "Infrastructure"
+                    - option "Iron & Steel"
+                    - option "IT - Education"
+                    - option "IT - Networking"
+                    - option "IT Services & Consulting"
+                    - option "It-Networking"
+                    - option "Labs & Life Sciences Services"
+                    - option "Laminates/Decoratives"
+                    - option "Leather"
+                    - option "Leisure Services"
+                    - option "Life & Health Insurance"
+                    - option "Logistics"
+                    - option "LPG"
+                    - option "Lubricants"
+                    - option "Media"
+                    - option "Medical Equipment/Supplies/Accessories"
+                    - option "Metal - Casting/Forgings"
+                    - option "Metals & Mining"
+                    - option "Metals - Casting & Forgings"
+                    - option "Metals - Castings/Forgings"
+                    - option "Metals - Non Ferrous"
+                    - option "Mis. Commercial Services"
+                    - option "Misc. Commercial Services"
+                    - option "Miscellaneous"
+                    - option "Miscellaneous"
+                    - option "Multiline Insurance & Brokers"
+                    - option "Oil Exploration and Production"
+                    - option "Online Services"
+                    - option "other agriculture products"
+                    - option "Other Construction Materials"
+                    - option "Others-Industrial Gases & Fuels"
+                    - option "Others-Manufacturing"
+                    - option "Packaging - Films"
+                    - option "Packaging - Packaging Materials"
+                    - option "Packaging - Polyfilms"
+                    - option "Packaging - Sacks and Bags"
+                    - option "Packaging Materials-Containers & Packaging"
+                    - option "Packaging Materials-Plastic Products"
+                    - option "Paints"
+                    - option "Paper & Forest Products"
+                    - option "Paper & Paper Products"
+                    - option "Pesticides & Agrochemical"
+                    - option "Pesticides & Agrochemicals"
+                    - option "Pharmaceuticals & Drugs"
+                    - option "Photographic Products"
+                    - option "Plastic - Tubes/Pipes/Hoses & Fittings"
+                    - option "Plastic Products"
+                    - option "Plastic products"
+                    - option "Plastic Products - Others"
+                    - option "Plastics - Moulded Articles and Furnitures"
+                    - option "Plastics - Pet Bottels, Jars & Containers"
+                    - option "Plastics - Self Adhesive Tapes"
+                    - option "Plastics - Thermoplastics"
+                    - option "Plastics - Tubes/Pipes/Hoses & Fittings"
+                    - option "Ports"
+                    - option "Power Generation/Distribution"
+                    - option "Printing & Publishing"
+                    - option "Printing & Stationery"
+                    - option "Printing And Publishing"
+                    - option "Railways Wagons"
+                    - option "Ratings"
+                    - option "Real Estate Operations"
+                    - option "Real Estate Rental, Development & Operations"
+                    - option "Refineries"
+                    - option "Refractories"
+                    - option "Reinsurance"
+                    - option "Renewables"
+                    - option "Retailing"
+                    - option "Rubber Products"
+                    - option "Ship Building"
+                    - option "Shipping"
+                    - option "Software"
+                    - option "Solvent Extraction"
+                    - option "Speciality Chemicals"
+                    - option "Speciality Retailers"
+                    - option "Specialty Mining & Metals"
+                    - option "Sugar"
+                    - option "Tea/Coffee"
+                    - option "Telecommunication - Equipment"
+                    - option "Telecommunication - Service Provider"
+                    - option "Telecommunications Services"
+                    - option "Textile - Machinery"
+                    - option "Textile - Spinning"
+                    - option "Textiles"
+                    - option "Textiles & Apparel"
+                    - option "Textiles and Apparel"
+                    - option "Trading"
+                    - option "Trading"
+                    - option "Transmission Towers / Equipments"
+                    - option "Transport Infrastructure"
+                    - option "Travel Services"
+                    - option "TV Broadcasting & Software Production"
+                    - option "Vegetable Oils & Products"
+                    - option "Watches & Accessories"
+                    - option "Wateches & Accessories"
+                    - option "Wood & Wood Products"
+                  - button "GO" [ref=e842] [cursor=pointer]
+                  - paragraph
+              - paragraph [ref=e843]:
+                - strong [ref=e844]: Top 100
+            - table [ref=e846]:
+              - rowgroup [ref=e847]:
+                - row "Company Name Last Price % Change 52 wk High 52 wk Low Market Cap (Rs. cr)" [ref=e848]:
+                  - columnheader "Company Name" [ref=e849]
+                  - columnheader "Last Price" [ref=e850]
+                  - columnheader "% Change" [ref=e851]
+                  - columnheader "52 wk High" [ref=e852]
+                  - columnheader "52 wk Low" [ref=e853]
+                  - columnheader "Market Cap (Rs. cr)" [ref=e854]
+              - rowgroup [ref=e855]:
+                - row "Reliance 1,369.20 1.88 1,611.80 1,114.85 1,852,866.15" [ref=e856]:
+                  - cell "Reliance" [ref=e857]:
+                    - link "Reliance" [ref=e858] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/refineries/relianceindustries/RI
+                  - cell "1,369.20" [ref=e859]
+                  - cell "1.88" [ref=e860]
+                  - cell "1,611.80" [ref=e861]
+                  - cell "1,114.85" [ref=e862]
+                  - cell "1,852,866.15" [ref=e863]
+                - row "HDFC Bank 742.25 1.46 1,020.50 726.65 1,142,572.76" [ref=e864]:
+                  - cell "HDFC Bank" [ref=e865]:
+                    - link "HDFC Bank" [ref=e866] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/hdfcbank/HDF01
+                  - cell "742.25" [ref=e867]
+                  - cell "1.46" [ref=e868]
+                  - cell "1,020.50" [ref=e869]
+                  - cell "726.65" [ref=e870]
+                  - cell "1,142,572.76" [ref=e871]
+                - row "Bharti Airtel 1,781.90 -0.03 2,174.50 1,669.40 1,033,533.58" [ref=e872]:
+                  - cell "Bharti Airtel" [ref=e873]:
+                    - link "Bharti Airtel" [ref=e874] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/telecommunications-service/bhartiairtel/BA08
+                  - cell "1,781.90" [ref=e875]
+                  - cell "-0.03" [ref=e876]
+                  - cell "2,174.50" [ref=e877]
+                  - cell "1,669.40" [ref=e878]
+                  - cell "1,033,533.58" [ref=e879]
+                - row "SBI 1,017.80 3.92 1,234.70 730.00 939,492.26" [ref=e880]:
+                  - cell "SBI" [ref=e881]:
+                    - link "SBI" [ref=e882] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/banks-public-sector/statebankindia/SBI
+                  - cell "1,017.80" [ref=e883]
+                  - cell "3.92" [ref=e884]
+                  - cell "1,234.70" [ref=e885]
+                  - cell "730.00" [ref=e886]
+                  - cell "939,492.26" [ref=e887]
+                - row "TCS 2,408.20 2.09 3,630.50 2,346.20 871,307.84" [ref=e888]:
+                  - cell "TCS" [ref=e889]:
+                    - link "TCS" [ref=e890] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/computers-software/tataconsultancyservices/TCS
+                  - cell "2,408.20" [ref=e891]
+                  - cell "2.09" [ref=e892]
+                  - cell "3,630.50" [ref=e893]
+                  - cell "2,346.20" [ref=e894]
+                  - cell "871,307.84" [ref=e895]
+                - row "ICICI Bank 1,212.70 0.56 1,500.00 1,200.40 868,306.85" [ref=e896]:
+                  - cell "ICICI Bank" [ref=e897]:
+                    - link "ICICI Bank" [ref=e898] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/icicibank/ICI02
+                  - cell "1,212.70" [ref=e899]
+                  - cell "0.56" [ref=e900]
+                  - cell "1,500.00" [ref=e901]
+                  - cell "1,200.40" [ref=e902]
+                  - cell "868,306.85" [ref=e903]
+                - row "Infosys 1,275.70 2.01 1,728.00 1,215.10 517,371.84" [ref=e904]:
+                  - cell "Infosys" [ref=e905]:
+                    - link "Infosys" [ref=e906] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/computers-software/infosys/IT
+                  - cell "1,275.70" [ref=e907]
+                  - cell "2.01" [ref=e908]
+                  - cell "1,728.00" [ref=e909]
+                  - cell "1,215.10" [ref=e910]
+                  - cell "517,371.84" [ref=e911]
+                - row "Bajaj Finance 817.30 1.96 1,102.50 787.90 508,563.44" [ref=e912]:
+                  - cell "Bajaj Finance" [ref=e913]:
+                    - link "Bajaj Finance" [ref=e914] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/finance-nbfc/bajajfinance/BAF
+                  - cell "817.30" [ref=e915]
+                  - cell "1.96" [ref=e916]
+                  - cell "1,102.50" [ref=e917]
+                  - cell "787.90" [ref=e918]
+                  - cell "508,563.44" [ref=e919]
+                - row "Larsen 3,607.50 2.95 4,440.00 2,965.30 507,459.22" [ref=e920]:
+                  - cell "Larsen" [ref=e921]:
+                    - link "Larsen" [ref=e922] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/infrastructure-general/larsentoubro/LT
+                  - cell "3,607.50" [ref=e923]
+                  - cell "2.95" [ref=e924]
+                  - cell "4,440.00" [ref=e925]
+                  - cell "2,965.30" [ref=e926]
+                  - cell "507,459.22" [ref=e927]
+                - row "HUL 2,064.70 0.46 2,750.00 2,033.30 485,120.11" [ref=e928]:
+                  - cell "HUL" [ref=e929]:
+                    - link "HUL" [ref=e930] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/personal-care/hindustanunilever/HU
+                  - cell "2,064.70" [ref=e931]
+                  - cell "0.46" [ref=e932]
+                  - cell "2,750.00" [ref=e933]
+                  - cell "2,033.30" [ref=e934]
+                  - cell "485,120.11" [ref=e935]
+                - row "LIC India 746.00 2.80 980.00 722.65 471,844.83" [ref=e936]:
+                  - cell "LIC India" [ref=e937]:
+                    - link "LIC India" [ref=e938] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/life-health-insurance/lifeinsurancecorporationindia/LIC09
+                  - cell "746.00" [ref=e939]
+                  - cell "2.80" [ref=e940]
+                  - cell "980.00" [ref=e941]
+                  - cell "722.65" [ref=e942]
+                  - cell "471,844.83" [ref=e943]
+                - row "Sun Pharma 1,728.50 -1.63 1,851.20 1,548.00 414,725.05" [ref=e944]:
+                  - cell "Sun Pharma" [ref=e945]:
+                    - link "Sun Pharma" [ref=e946] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/sunpharmaceuticalindustries/SPI
+                  - cell "1,728.50" [ref=e947]
+                  - cell "-1.63" [ref=e948]
+                  - cell "1,851.20" [ref=e949]
+                  - cell "1,548.00" [ref=e950]
+                  - cell "414,725.05" [ref=e951]
+                - row "Maruti Suzuki 12,509.00 1.65 17,370.00 11,059.45 393,286.18" [ref=e952]:
+                  - cell "Maruti Suzuki" [ref=e953]:
+                    - link "Maruti Suzuki" [ref=e954] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/auto-cars-jeeps/marutisuzukiindia/MS24
+                  - cell "12,509.00" [ref=e955]
+                  - cell "1.65" [ref=e956]
+                  - cell "17,370.00" [ref=e957]
+                  - cell "11,059.45" [ref=e958]
+                  - cell "393,286.18" [ref=e959]
+                - row "M&M 3,031.50 2.60 3,839.90 2,425.00 376,975.77" [ref=e960]:
+                  - cell "M&M" [ref=e961]:
+                    - link "M&M" [ref=e962] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/auto-cars-jeeps/mahindramahindra/MM
+                  - cell "3,031.50" [ref=e963]
+                  - cell "2.60" [ref=e964]
+                  - cell "3,839.90" [ref=e965]
+                  - cell "2,425.00" [ref=e966]
+                  - cell "376,975.77" [ref=e967]
+                - row "Axis Bank 1,193.10 2.74 1,418.30 1,032.35 370,805.79" [ref=e968]:
+                  - cell "Axis Bank" [ref=e969]:
+                    - link "Axis Bank" [ref=e970] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/axisbank/AB16
+                  - cell "1,193.10" [ref=e971]
+                  - cell "2.74" [ref=e972]
+                  - cell "1,418.30" [ref=e973]
+                  - cell "1,032.35" [ref=e974]
+                  - cell "370,805.79" [ref=e975]
+                - row "HCL Tech 1,354.40 0.95 1,780.10 1,297.70 367,538.80" [ref=e976]:
+                  - cell "HCL Tech" [ref=e977]:
+                    - link "HCL Tech" [ref=e978] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/computers-software/hcltechnologies/HCL02
+                  - cell "1,354.40" [ref=e979]
+                  - cell "0.95" [ref=e980]
+                  - cell "1,780.10" [ref=e981]
+                  - cell "1,297.70" [ref=e982]
+                  - cell "367,538.80" [ref=e983]
+                - row "ITC 291.70 1.39 444.20 287.00 365,484.59" [ref=e984]:
+                  - cell "ITC" [ref=e985]:
+                    - link "ITC" [ref=e986] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/diversified/itc/ITC
+                  - cell "291.70" [ref=e987]
+                  - cell "1.39" [ref=e988]
+                  - cell "444.20" [ref=e989]
+                  - cell "287.00" [ref=e990]
+                  - cell "365,484.59" [ref=e991]
+                - row "ONGC 288.05 1.19 293.00 205.00 362,374.94" [ref=e992]:
+                  - cell "ONGC" [ref=e993]:
+                    - link "ONGC" [ref=e994] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/oil-drilling-exploration/oilnaturalgascorporation/ONG
+                  - cell "288.05" [ref=e995]
+                  - cell "1.19" [ref=e996]
+                  - cell "293.00" [ref=e997]
+                  - cell "205.00" [ref=e998]
+                  - cell "362,374.94" [ref=e999]
+                - row "Titan Company 4,065.50 2.89 4,378.40 2,925.00 360,929.46" [ref=e1000]:
+                  - cell "Titan Company" [ref=e1001]:
+                    - link "Titan Company" [ref=e1002] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/miscellaneous/titancompany/TI01
+                  - cell "4,065.50" [ref=e1003]
+                  - cell "2.89" [ref=e1004]
+                  - cell "4,378.40" [ref=e1005]
+                  - cell "2,925.00" [ref=e1006]
+                  - cell "360,929.46" [ref=e1007]
+                - row "Kotak Mahindra 356.05 0.75 460.38 351.65 354,143.88" [ref=e1008]:
+                  - cell "Kotak Mahindra" [ref=e1009]:
+                    - link "Kotak Mahindra" [ref=e1010] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/banks-private-sector/kotakmahindrabank/KMB
+                  - cell "356.05" [ref=e1011]
+                  - cell "0.75" [ref=e1012]
+                  - cell "460.38" [ref=e1013]
+                  - cell "351.65" [ref=e1014]
+                  - cell "354,143.88" [ref=e1015]
+                - row "NTPC 364.65 -1.62 394.50 315.55 353,588.93" [ref=e1016]:
+                  - cell "NTPC" [ref=e1017]:
+                    - link "NTPC" [ref=e1018] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/power-generation-distribution/ntpc/NTP
+                  - cell "364.65" [ref=e1019]
+                  - cell "-1.62" [ref=e1020]
+                  - cell "394.50" [ref=e1021]
+                  - cell "315.55" [ref=e1022]
+                  - cell "353,588.93" [ref=e1023]
+                - row "UltraTechCement 10,714.00 -0.29 13,110.00 10,325.00 315,719.26" [ref=e1024]:
+                  - cell "UltraTechCement" [ref=e1025]:
+                    - link "UltraTechCement" [ref=e1026] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/cement-major/ultratechcement/UTC01
+                  - cell "10,714.00" [ref=e1027]
+                  - cell "-0.29" [ref=e1028]
+                  - cell "13,110.00" [ref=e1029]
+                  - cell "10,325.00" [ref=e1030]
+                  - cell "315,719.26" [ref=e1031]
+                - row "Bharat Elec 418.70 4.51 473.45 256.20 306,060.44" [ref=e1032]:
+                  - cell "Bharat Elec" [ref=e1033]:
+                    - link "Bharat Elec" [ref=e1034] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/aerospace-defence/bharatelectronics/BE03
+                  - cell "418.70" [ref=e1035]
+                  - cell "4.51" [ref=e1036]
+                  - cell "473.45" [ref=e1037]
+                  - cell "256.20" [ref=e1038]
+                  - cell "306,060.44" [ref=e1039]
+                - row "Adani Power 157.11 4.44 182.70 92.40 302,981.84" [ref=e1040]:
+                  - cell "Adani Power" [ref=e1041]:
+                    - link "Adani Power" [ref=e1042] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/power-generation-distribution/adanipower/AP11
+                  - cell "157.11" [ref=e1043]
+                  - cell "4.44" [ref=e1044]
+                  - cell "182.70" [ref=e1045]
+                  - cell "92.40" [ref=e1046]
+                  - cell "302,981.84" [ref=e1047]
+                - row "Adani Ports 1,385.40 5.55 1,584.00 1,041.50 299,265.65" [ref=e1048]:
+                  - cell "Adani Ports" [ref=e1049]:
+                    - link "Adani Ports" [ref=e1050] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/infrastructure-general/adaniportsspecialeconomiczone/MPS
+                  - cell "1,385.40" [ref=e1051]
+                  - cell "5.55" [ref=e1052]
+                  - cell "1,584.00" [ref=e1053]
+                  - cell "1,041.50" [ref=e1054]
+                  - cell "299,265.65" [ref=e1055]
+                - row "JSW Steel 1,140.40 1.59 1,284.70 905.20 278,879.57" [ref=e1056]:
+                  - cell "JSW Steel" [ref=e1057]:
+                    - link "JSW Steel" [ref=e1058] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/steel-large/jswsteel/JSW01
+                  - cell "1,140.40" [ref=e1059]
+                  - cell "1.59" [ref=e1060]
+                  - cell "1,284.70" [ref=e1061]
+                  - cell "905.20" [ref=e1062]
+                  - cell "278,879.57" [ref=e1063]
+                - row "Avenue Supermar 4,271.10 7.94 4,949.50 3,529.00 278,458.26" [ref=e1064]:
+                  - cell "Avenue Supermar" [ref=e1065]:
+                    - link "Avenue Supermar" [ref=e1066] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/retail/avenuesupermarts/AS19
+                  - cell "4,271.10" [ref=e1067]
+                  - cell "7.94" [ref=e1068]
+                  - cell "4,949.50" [ref=e1069]
+                  - cell "3,529.00" [ref=e1070]
+                  - cell "278,458.26" [ref=e1071]
+                - row "Coal India 449.40 -0.23 476.00 356.00 276,953.01" [ref=e1072]:
+                  - cell "Coal India" [ref=e1073]:
+                    - link "Coal India" [ref=e1074] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/mining-minerals/coalindia/CI11
+                  - cell "449.40" [ref=e1075]
+                  - cell "-0.23" [ref=e1076]
+                  - cell "476.00" [ref=e1077]
+                  - cell "356.00" [ref=e1078]
+                  - cell "276,953.01" [ref=e1079]
+                - row "Power Grid Corp 292.80 -1.11 322.00 250.00 272,321.68" [ref=e1080]:
+                  - cell "Power Grid Corp" [ref=e1081]:
+                    - link "Power Grid Corp" [ref=e1082] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/power-generation-distribution/powergridcorporationindia/PGC
+                  - cell "292.80" [ref=e1083]
+                  - cell "-1.11" [ref=e1084]
+                  - cell "322.00" [ref=e1085]
+                  - cell "250.00" [ref=e1086]
+                  - cell "272,321.68" [ref=e1087]
+                - row "Vedanta 677.20 3.42 769.80 363.00 264,811.48" [ref=e1088]:
+                  - cell "Vedanta" [ref=e1089]:
+                    - link "Vedanta" [ref=e1090] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/mining-minerals/vedanta/SG
+                  - cell "677.20" [ref=e1091]
+                  - cell "3.42" [ref=e1092]
+                  - cell "769.80" [ref=e1093]
+                  - cell "363.00" [ref=e1094]
+                  - cell "264,811.48" [ref=e1095]
+                - row "Bajaj Finserv 1,647.00 0.93 2,195.00 1,627.00 263,610.58" [ref=e1096]:
+                  - cell "Bajaj Finserv" [ref=e1097]:
+                    - link "Bajaj Finserv" [ref=e1098] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/finance-investments/bajajfinserv/BF04
+                  - cell "1,647.00" [ref=e1099]
+                  - cell "0.93" [ref=e1100]
+                  - cell "2,195.00" [ref=e1101]
+                  - cell "1,627.00" [ref=e1102]
+                  - cell "263,610.58" [ref=e1103]
+                - row "Bajaj Auto 8,895.50 1.30 10,187.00 7,089.35 248,627.30" [ref=e1104]:
+                  - cell "Bajaj Auto" [ref=e1105]:
+                    - link "Bajaj Auto" [ref=e1106] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/auto-2-3-wheelers/bajajauto/BA10
+                  - cell "8,895.50" [ref=e1107]
+                  - cell "1.30" [ref=e1108]
+                  - cell "10,187.00" [ref=e1109]
+                  - cell "7,089.35" [ref=e1110]
+                  - cell "248,627.30" [ref=e1111]
+                - row "Hindustan Aeron 3,670.80 5.26 5,165.00 3,479.10 245,493.93" [ref=e1112]:
+                  - cell "Hindustan Aeron" [ref=e1113]:
+                    - link "Hindustan Aeron" [ref=e1114] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/aerospace-defence/hindustanaeronautics/HAL
+                  - cell "3,670.80" [ref=e1115]
+                  - cell "5.26" [ref=e1116]
+                  - cell "5,165.00" [ref=e1117]
+                  - cell "3,479.10" [ref=e1118]
+                  - cell "245,493.93" [ref=e1119]
+                - row "Tata Steel 194.60 1.43 216.45 125.30 242,929.52" [ref=e1120]:
+                  - cell "Tata Steel" [ref=e1121]:
+                    - link "Tata Steel" [ref=e1122] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/iron-steel/tatasteel/TIS
+                  - cell "194.60" [ref=e1123]
+                  - cell "1.43" [ref=e1124]
+                  - cell "216.45" [ref=e1125]
+                  - cell "125.30" [ref=e1126]
+                  - cell "242,929.52" [ref=e1127]
+                - row "Adani Enterpris 1,842.50 4.76 2,695.00 1,753.00 238,096.91" [ref=e1128]:
+                  - cell "Adani Enterpris" [ref=e1129]:
+                    - link "Adani Enterpris" [ref=e1130] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/trading/adanienterprises/AE13
+                  - cell "1,842.50" [ref=e1131]
+                  - cell "4.76" [ref=e1132]
+                  - cell "2,695.00" [ref=e1133]
+                  - cell "1,753.00" [ref=e1134]
+                  - cell "238,096.91" [ref=e1135]
+                - row "Eternal 236.52 3.29 368.45 194.80 228,250.09" [ref=e1136]:
+                  - cell "Eternal" [ref=e1137]:
+                    - link "Eternal" [ref=e1138] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/online-services/eternal/Z
+                  - cell "236.52" [ref=e1139]
+                  - cell "3.29" [ref=e1140]
+                  - cell "368.45" [ref=e1141]
+                  - cell "194.80" [ref=e1142]
+                  - cell "228,250.09" [ref=e1143]
+                - row "Nestle 1,180.80 0.51 1,340.40 1,074.00 227,695.35" [ref=e1144]:
+                  - cell "Nestle" [ref=e1145]:
+                    - link "Nestle" [ref=e1146] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/food-processing/nestleindia/NI
+                  - cell "1,180.80" [ref=e1147]
+                  - cell "0.51" [ref=e1148]
+                  - cell "1,340.40" [ref=e1149]
+                  - cell "1,074.00" [ref=e1150]
+                  - cell "227,695.35" [ref=e1151]
+                - row "Hind Zinc 524.45 4.44 733.00 388.55 221,596.85" [ref=e1152]:
+                  - cell "Hind Zinc" [ref=e1153]:
+                    - link "Hind Zinc" [ref=e1154] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/metals-non-ferrous/hindustanzinc/HZ
+                  - cell "524.45" [ref=e1155]
+                  - cell "4.44" [ref=e1156]
+                  - cell "733.00" [ref=e1157]
+                  - cell "388.55" [ref=e1158]
+                  - cell "221,596.85" [ref=e1159]
+                - row "Asian Paints 2,225.80 2.80 2,985.70 2,115.00 213,498.24" [ref=e1160]:
+                  - cell "Asian Paints" [ref=e1161]:
+                    - link "Asian Paints" [ref=e1162] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/paints-varnishes/asianpaints/AP31
+                  - cell "2,225.80" [ref=e1163]
+                  - cell "2.80" [ref=e1164]
+                  - cell "2,985.70" [ref=e1165]
+                  - cell "2,115.00" [ref=e1166]
+                  - cell "213,498.24" [ref=e1167]
+                - row "Hindalco 904.60 2.28 1,029.80 546.45 203,284.11" [ref=e1168]:
+                  - cell "Hindalco" [ref=e1169]:
+                    - link "Hindalco" [ref=e1170] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/iron-steel/hindalcoindustries/HI
+                  - cell "904.60" [ref=e1171]
+                  - cell "2.28" [ref=e1172]
+                  - cell "1,029.80" [ref=e1173]
+                  - cell "546.45" [ref=e1174]
+                  - cell "203,284.11" [ref=e1175]
+                - row "Wipro 191.18 1.89 273.10 186.50 200,517.47" [ref=e1176]:
+                  - cell "Wipro" [ref=e1177]:
+                    - link "Wipro" [ref=e1178] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/computers-software/wipro/W
+                  - cell "191.18" [ref=e1179]
+                  - cell "1.89" [ref=e1180]
+                  - cell "273.10" [ref=e1181]
+                  - cell "186.50" [ref=e1182]
+                  - cell "200,517.47" [ref=e1183]
+                - row "IOC 135.72 0.24 188.96 122.35 191,653.45" [ref=e1184]:
+                  - cell "IOC" [ref=e1185]:
+                    - link "IOC" [ref=e1186] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/refineries/indianoilcorporation/IOC
+                  - cell "135.72" [ref=e1187]
+                  - cell "0.24" [ref=e1188]
+                  - cell "188.96" [ref=e1189]
+                  - cell "122.35" [ref=e1190]
+                  - cell "191,653.45" [ref=e1191]
+                - row "Eicher Motors 6,825.50 3.64 8,230.00 4,999.95 187,229.86" [ref=e1192]:
+                  - cell "Eicher Motors" [ref=e1193]:
+                    - link "Eicher Motors" [ref=e1194] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/auto-lcvs-hcvs/eichermotors/EM
+                  - cell "6,825.50" [ref=e1195]
+                  - cell "3.64" [ref=e1196]
+                  - cell "8,230.00" [ref=e1197]
+                  - cell "4,999.95" [ref=e1198]
+                  - cell "187,229.86" [ref=e1199]
+                - row "SBI Life Insura 1,790.50 0.74 2,132.00 1,430.55 179,603.64" [ref=e1200]:
+                  - cell "SBI Life Insura" [ref=e1201]:
+                    - link "SBI Life Insura" [ref=e1202] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/life-health-insurance/sbilifeinsurancecompany/SLI03
+                  - cell "1,790.50" [ref=e1203]
+                  - cell "0.74" [ref=e1204]
+                  - cell "2,132.00" [ref=e1205]
+                  - cell "1,430.55" [ref=e1206]
+                  - cell "179,603.64" [ref=e1207]
+                - row "Grasim 2,592.80 1.37 2,979.00 2,465.50 176,445.53" [ref=e1208]:
+                  - cell "Grasim" [ref=e1209]:
+                    - link "Grasim" [ref=e1210] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/diversified/grasimindustries/GI01
+                  - cell "2,592.80" [ref=e1211]
+                  - cell "1.37" [ref=e1212]
+                  - cell "2,979.00" [ref=e1213]
+                  - cell "2,465.50" [ref=e1214]
+                  - cell "176,445.53" [ref=e1215]
+                - row "Shriram Finance 900.55 3.26 1,108.00 566.50 169,444.37" [ref=e1216]:
+                  - cell "Shriram Finance" [ref=e1217]:
+                    - link "Shriram Finance" [ref=e1218] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/finance-leasing-hire-purchase/shriramfinance/STF
+                  - cell "900.55" [ref=e1219]
+                  - cell "3.26" [ref=e1220]
+                  - cell "1,108.00" [ref=e1221]
+                  - cell "566.50" [ref=e1222]
+                  - cell "169,444.37" [ref=e1223]
+                - row "TVS Motor 3,425.80 1.84 3,970.00 2,221.10 162,755.34" [ref=e1224]:
+                  - cell "TVS Motor" [ref=e1225]:
+                    - link "TVS Motor" [ref=e1226] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/auto-2-3-wheelers/tvsmotorcompany/TVS
+                  - cell "3,425.80" [ref=e1227]
+                  - cell "1.84" [ref=e1228]
+                  - cell "3,970.00" [ref=e1229]
+                  - cell "2,221.10" [ref=e1230]
+                  - cell "162,755.34" [ref=e1231]
+                - row "Interglobe Avi 4,180.80 6.02 6,232.50 3,895.20 161,635.16" [ref=e1232]:
+                  - cell "Interglobe Avi" [ref=e1233]:
+                    - link "Interglobe Avi" [ref=e1234] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/transport-logistics/interglobeaviation/IA04
+                  - cell "4,180.80" [ref=e1235]
+                  - cell "6.02" [ref=e1236]
+                  - cell "6,232.50" [ref=e1237]
+                  - cell "3,895.20" [ref=e1238]
+                  - cell "161,635.16" [ref=e1239]
+                - row "Divis Labs 5,906.50 -0.68 7,071.50 4,955.00 156,799.02" [ref=e1240]:
+                  - cell "Divis Labs" [ref=e1241]:
+                    - link "Divis Labs" [ref=e1242] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/divislaboratories/DL03
+                  - cell "5,906.50" [ref=e1243]
+                  - cell "-0.68" [ref=e1244]
+                  - cell "7,071.50" [ref=e1245]
+                  - cell "4,955.00" [ref=e1246]
+                  - cell "156,799.02" [ref=e1247]
+                - row "Jio Financial 231.93 3.49 338.60 203.10 147,348.41" [ref=e1248]:
+                  - cell "Jio Financial" [ref=e1249]:
+                    - link "Jio Financial" [ref=e1250] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/finance-others/jiofinancialservices/JFS
+                  - cell "231.93" [ref=e1251]
+                  - cell "3.49" [ref=e1252]
+                  - cell "338.60" [ref=e1253]
+                  - cell "203.10" [ref=e1254]
+                  - cell "147,348.41" [ref=e1255]
+                - row "Tata Motors Com 396.05 0.32 509.00 306.30 145,838.73" [ref=e1256]:
+                  - cell "Tata Motors Com" [ref=e1257]:
+                    - link "Tata Motors Com" [ref=e1258] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/automobile-trucks-lcvs/tatamotors/TML02
+                  - cell "396.05" [ref=e1259]
+                  - cell "0.32" [ref=e1260]
+                  - cell "509.00" [ref=e1261]
+                  - cell "306.30" [ref=e1262]
+                  - cell "145,838.73" [ref=e1263]
+                - row "ICICIAMC 2,857.00 1.98 3,193.00 2,530.00 141,209.66" [ref=e1264]:
+                  - cell "ICICIAMC" [ref=e1265]:
+                    - link "ICICIAMC" [ref=e1266] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/finance-investment/iciciprudentialassetmanagementcompany/IPA02
+                  - cell "2,857.00" [ref=e1267]
+                  - cell "1.98" [ref=e1268]
+                  - cell "3,193.00" [ref=e1269]
+                  - cell "2,530.00" [ref=e1270]
+                  - cell "141,209.66" [ref=e1271]
+                - row "Adani Green Ene 851.95 5.58 1,177.55 765.00 140,331.17" [ref=e1272]:
+                  - cell "Adani Green Ene" [ref=e1273]:
+                    - link "Adani Green Ene" [ref=e1274] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/power-generation-distribution/adanigreenenergylimited/ADANI54145
+                  - cell "851.95" [ref=e1275]
+                  - cell "5.58" [ref=e1276]
+                  - cell "1,177.55" [ref=e1277]
+                  - cell "765.00" [ref=e1278]
+                  - cell "140,331.17" [ref=e1279]
+                - row "Hyundai Motor 1,716.20 -3.48 2,890.00 1,541.70 139,448.30" [ref=e1280]:
+                  - cell "Hyundai Motor" [ref=e1281]:
+                    - link "Hyundai Motor" [ref=e1282] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/automobile-passenger-cars/hyundaimotorindia/HMI01
+                  - cell "1,716.20" [ref=e1283]
+                  - cell "-3.48" [ref=e1284]
+                  - cell "2,890.00" [ref=e1285]
+                  - cell "1,541.70" [ref=e1286]
+                  - cell "139,448.30" [ref=e1287]
+                - row "Torrent Pharma 4,111.30 -2.58 4,482.90 3,101.60 139,145.07" [ref=e1288]:
+                  - cell "Torrent Pharma" [ref=e1289]:
+                    - link "Torrent Pharma" [ref=e1290] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/torrentpharmaceuticals/TP06
+                  - cell "4,111.30" [ref=e1291]
+                  - cell "-2.58" [ref=e1292]
+                  - cell "4,482.90" [ref=e1293]
+                  - cell "3,101.60" [ref=e1294]
+                  - cell "139,145.07" [ref=e1295]
+                - row "Tech Mahindra 1,404.50 1.48 1,854.00 1,209.40 137,618.70" [ref=e1296]:
+                  - cell "Tech Mahindra" [ref=e1297]:
+                    - link "Tech Mahindra" [ref=e1298] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/computers-software/techmahindra/TM4
+                  - cell "1,404.50" [ref=e1299]
+                  - cell "1.48" [ref=e1300]
+                  - cell "1,854.00" [ref=e1301]
+                  - cell "1,209.40" [ref=e1302]
+                  - cell "137,618.70" [ref=e1303]
+                - row "Varun Beverages 401.80 4.61 568.50 381.00 135,892.55" [ref=e1304]:
+                  - cell "Varun Beverages" [ref=e1305]:
+                    - link "Varun Beverages" [ref=e1306] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/food-processing/varunbeverages/VB05
+                  - cell "401.80" [ref=e1307]
+                  - cell "4.61" [ref=e1308]
+                  - cell "568.50" [ref=e1309]
+                  - cell "381.00" [ref=e1310]
+                  - cell "135,892.55" [ref=e1311]
+                - row "Pidilite Ind 1,307.00 1.71 1,574.95 1,277.20 133,022.05" [ref=e1312]:
+                  - cell "Pidilite Ind" [ref=e1313]:
+                    - link "Pidilite Ind" [ref=e1314] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/chemicals/pidiliteindustries/PI11
+                  - cell "1,307.00" [ref=e1315]
+                  - cell "1.71" [ref=e1316]
+                  - cell "1,574.95" [ref=e1317]
+                  - cell "1,277.20" [ref=e1318]
+                  - cell "133,022.05" [ref=e1319]
+                - row "Britannia 5,474.00 0.94 6,336.00 4,605.05 131,851.31" [ref=e1320]:
+                  - cell "Britannia" [ref=e1321]:
+                    - link "Britannia" [ref=e1322] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/food-processing/britanniaindustries/BI
+                  - cell "5,474.00" [ref=e1323]
+                  - cell "0.94" [ref=e1324]
+                  - cell "6,336.00" [ref=e1325]
+                  - cell "4,605.05" [ref=e1326]
+                  - cell "131,851.31" [ref=e1327]
+                - row "Power Finance 397.70 4.80 444.10 329.90 131,245.05" [ref=e1328]:
+                  - cell "Power Finance" [ref=e1329]:
+                    - link "Power Finance" [ref=e1330] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/finance-term-lending-institutions/powerfinancecorporation/PFC02
+                  - cell "397.70" [ref=e1331]
+                  - cell "4.80" [ref=e1332]
+                  - cell "444.10" [ref=e1333]
+                  - cell "329.90" [ref=e1334]
+                  - cell "131,245.05" [ref=e1335]
+                - row "Union Bank 171.64 4.53 205.49 112.52 131,023.21" [ref=e1336]:
+                  - cell "Union Bank" [ref=e1337]:
+                    - link "Union Bank" [ref=e1338] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/banks-public-sector/unionbankindia/UBI01
+                  - cell "171.64" [ref=e1339]
+                  - cell "4.53" [ref=e1340]
+                  - cell "205.49" [ref=e1341]
+                  - cell "112.52" [ref=e1342]
+                  - cell "131,023.21" [ref=e1343]
+                - row "Muthoot Finance 3,256.00 3.03 4,149.50 1,965.00 130,718.14" [ref=e1344]:
+                  - cell "Muthoot Finance" [ref=e1345]:
+                    - link "Muthoot Finance" [ref=e1346] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/finance-investments/muthootfinance/MF10
+                  - cell "3,256.00" [ref=e1347]
+                  - cell "3.03" [ref=e1348]
+                  - cell "4,149.50" [ref=e1349]
+                  - cell "1,965.00" [ref=e1350]
+                  - cell "130,718.14" [ref=e1351]
+                - row "Bank of Baroda 252.03 1.79 325.50 212.55 130,333.84" [ref=e1352]:
+                  - cell "Bank of Baroda" [ref=e1353]:
+                    - link "Bank of Baroda" [ref=e1354] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/banks-public-sector/bankbaroda/BOB
+                  - cell "252.03" [ref=e1355]
+                  - cell "1.79" [ref=e1356]
+                  - cell "325.50" [ref=e1357]
+                  - cell "212.55" [ref=e1358]
+                  - cell "130,333.84" [ref=e1359]
+                - row "Tata Capital 305.90 0.30 367.30 303.00 129,850.54" [ref=e1360]:
+                  - cell "Tata Capital" [ref=e1361]:
+                    - link "Tata Capital" [ref=e1362] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/finance-nbfc/tatacapital/TCL06
+                  - cell "305.90" [ref=e1363]
+                  - cell "0.30" [ref=e1364]
+                  - cell "367.30" [ref=e1365]
+                  - cell "303.00" [ref=e1366]
+                  - cell "129,850.54" [ref=e1367]
+                - row "ABB India 6,063.00 2.04 6,554.00 4,637.50 128,480.05" [ref=e1368]:
+                  - cell "ABB India" [ref=e1369]:
+                    - link "ABB India" [ref=e1370] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/infrastructure-general/abbindia/ABB
+                  - cell "6,063.00" [ref=e1371]
+                  - cell "2.04" [ref=e1372]
+                  - cell "6,554.00" [ref=e1373]
+                  - cell "4,637.50" [ref=e1374]
+                  - cell "128,480.05" [ref=e1375]
+                - row "Cummins 4,609.10 2.42 4,987.00 2,580.00 127,764.25" [ref=e1376]:
+                  - cell "Cummins" [ref=e1377]:
+                    - link "Cummins" [ref=e1378] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/engines/cumminsindia/CI02
+                  - cell "4,609.10" [ref=e1379]
+                  - cell "2.42" [ref=e1380]
+                  - cell "4,987.00" [ref=e1381]
+                  - cell "2,580.00" [ref=e1382]
+                  - cell "127,764.25" [ref=e1383]
+                - row "DLF 509.75 1.12 886.80 502.10 126,179.01" [ref=e1384]:
+                  - cell "DLF" [ref=e1385]:
+                    - link "DLF" [ref=e1386] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/construction-contracting-real-estate/dlf/D04
+                  - cell "509.75" [ref=e1387]
+                  - cell "1.12" [ref=e1388]
+                  - cell "886.80" [ref=e1389]
+                  - cell "502.10" [ref=e1390]
+                  - cell "126,179.01" [ref=e1391]
+                - row "Trent 3,526.50 7.00 6,261.00 3,275.50 125,362.65" [ref=e1392]:
+                  - cell "Trent" [ref=e1393]:
+                    - link "Trent" [ref=e1394] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/retail/trent/T04
+                  - cell "3,526.50" [ref=e1395]
+                  - cell "7.00" [ref=e1396]
+                  - cell "6,261.00" [ref=e1397]
+                  - cell "3,275.50" [ref=e1398]
+                  - cell "125,362.65" [ref=e1399]
+                - row "HDFC Life 572.95 -2.99 820.75 569.00 123,632.27" [ref=e1400]:
+                  - cell "HDFC Life" [ref=e1401]:
+                    - link "HDFC Life" [ref=e1402] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/life-health-insurance/hdfclifeinsurancecompany/HSL01
+                  - cell "572.95" [ref=e1403]
+                  - cell "-2.99" [ref=e1404]
+                  - cell "820.75" [ref=e1405]
+                  - cell "569.00" [ref=e1406]
+                  - cell "123,632.27" [ref=e1407]
+                - row "BPCL 281.25 0.09 391.65 262.00 122,020.47" [ref=e1408]:
+                  - cell "BPCL" [ref=e1409]:
+                    - link "BPCL" [ref=e1410] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/refineries/bharatpetroleumcorporation/BPC
+                  - cell "281.25" [ref=e1411]
+                  - cell "0.09" [ref=e1412]
+                  - cell "391.65" [ref=e1413]
+                  - cell "262.00" [ref=e1414]
+                  - cell "122,020.47" [ref=e1415]
+                - row "LTIMindtree 4,107.00 2.32 6,429.50 3,802.00 121,769.81" [ref=e1416]:
+                  - cell "LTIMindtree" [ref=e1417]:
+                    - link "LTIMindtree" [ref=e1418] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/computers-software/ltimindtree/LI12
+                  - cell "4,107.00" [ref=e1419]
+                  - cell "2.32" [ref=e1420]
+                  - cell "6,429.50" [ref=e1421]
+                  - cell "3,802.00" [ref=e1422]
+                  - cell "121,769.81" [ref=e1423]
+                - row "Tata Power 380.20 0.38 418.45 335.00 121,486.81" [ref=e1424]:
+                  - cell "Tata Power" [ref=e1425]:
+                    - link "Tata Power" [ref=e1426] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/power-generation-distribution/thetatapowercompany/TPC
+                  - cell "380.20" [ref=e1427]
+                  - cell "0.38" [ref=e1428]
+                  - cell "418.45" [ref=e1429]
+                  - cell "335.00" [ref=e1430]
+                  - cell "121,486.81" [ref=e1431]
+                - row "IRFC 91.99 5.46 148.95 87.00 120,217.19" [ref=e1432]:
+                  - cell "IRFC" [ref=e1433]:
+                    - link "IRFC" [ref=e1434] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/finance-nbfc/indianrailwayfinancecorporation/IRF
+                  - cell "91.99" [ref=e1435]
+                  - cell "5.46" [ref=e1436]
+                  - cell "148.95" [ref=e1437]
+                  - cell "87.00" [ref=e1438]
+                  - cell "120,217.19" [ref=e1439]
+                - row "Indian Bank 888.00 5.00 1,000.00 517.85 119,610.40" [ref=e1440]:
+                  - cell "Indian Bank" [ref=e1441]:
+                    - link "Indian Bank" [ref=e1442] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/banks-public-sector/indianbank/IB04
+                  - cell "888.00" [ref=e1443]
+                  - cell "5.00" [ref=e1444]
+                  - cell "1,000.00" [ref=e1445]
+                  - cell "517.85" [ref=e1446]
+                  - cell "119,610.40" [ref=e1447]
+                - row "PNB 104.00 3.42 135.15 89.45 119,526.61" [ref=e1448]:
+                  - cell "PNB" [ref=e1449]:
+                    - link "PNB" [ref=e1450] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/banks-public-sector/punjabnationalbank/PNB05
+                  - cell "104.00" [ref=e1451]
+                  - cell "3.42" [ref=e1452]
+                  - cell "135.15" [ref=e1453]
+                  - cell "89.45" [ref=e1454]
+                  - cell "119,526.61" [ref=e1455]
+                - row "BSE Limited 2,867.60 6.86 3,227.00 1,659.45 116,461.57" [ref=e1456]:
+                  - cell "BSE Limited" [ref=e1457]:
+                    - link "BSE Limited" [ref=e1458] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/miscellaneous/bselimited/B08
+                  - cell "2,867.60" [ref=e1459]
+                  - cell "6.86" [ref=e1460]
+                  - cell "3,227.00" [ref=e1461]
+                  - cell "1,659.45" [ref=e1462]
+                  - cell "116,461.57" [ref=e1463]
+                - row "Jindal Steel 1,137.40 2.18 1,272.10 770.00 116,024.82" [ref=e1464]:
+                  - cell "Jindal Steel" [ref=e1465]:
+                    - link "Jindal Steel" [ref=e1466] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/iron-steel/jindalsteel/JSP
+                  - cell "1,137.40" [ref=e1467]
+                  - cell "2.18" [ref=e1468]
+                  - cell "1,272.10" [ref=e1469]
+                  - cell "770.00" [ref=e1470]
+                  - cell "116,024.82" [ref=e1471]
+                - row "Solar Ind 12,807.00 6.05 17,820.00 9,888.40 115,890.61" [ref=e1472]:
+                  - cell "Solar Ind" [ref=e1473]:
+                    - link "Solar Ind" [ref=e1474] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/chemicals/solarindustriesindia/SII04
+                  - cell "12,807.00" [ref=e1475]
+                  - cell "6.05" [ref=e1476]
+                  - cell "17,820.00" [ref=e1477]
+                  - cell "9,888.40" [ref=e1478]
+                  - cell "115,890.61" [ref=e1479]
+                - row "Chola Invest. 1,373.60 1.40 1,831.50 1,335.00 115,679.52" [ref=e1480]:
+                  - cell "Chola Invest." [ref=e1481]:
+                    - link "Chola Invest." [ref=e1482] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/finance-nbfc/cholamandalaminvestmentfinancecompany/CDB
+                  - cell "1,373.60" [ref=e1483]
+                  - cell "1.40" [ref=e1484]
+                  - cell "1,831.50" [ref=e1485]
+                  - cell "1,335.00" [ref=e1486]
+                  - cell "115,679.52" [ref=e1487]
+                - row "Canara Bank 127.30 3.12 162.89 83.70 115,469.39" [ref=e1488]:
+                  - cell "Canara Bank" [ref=e1489]:
+                    - link "Canara Bank" [ref=e1490] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/banks-public-sector/canarabank/CB06
+                  - cell "127.30" [ref=e1491]
+                  - cell "3.12" [ref=e1492]
+                  - cell "162.89" [ref=e1493]
+                  - cell "83.70" [ref=e1494]
+                  - cell "115,469.39" [ref=e1495]
+                - row "Adani Energy 956.60 2.32 1,067.70 744.90 114,914.70" [ref=e1496]:
+                  - cell "Adani Energy" [ref=e1497]:
+                    - link "Adani Energy" [ref=e1498] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/power-transmission-equipment/adanienergysolutions/AT22
+                  - cell "956.60" [ref=e1499]
+                  - cell "2.32" [ref=e1500]
+                  - cell "1,067.70" [ref=e1501]
+                  - cell "744.90" [ref=e1502]
+                  - cell "114,914.70" [ref=e1503]
+                - row "MOTHERSON 107.62 2.42 136.15 71.50 113,586.91" [ref=e1504]:
+                  - cell "MOTHERSON" [ref=e1505]:
+                    - link "MOTHERSON" [ref=e1506] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/auto-ancillaries-auto-truck-motorcycle-parts/samvardhanamothersoninternational/MSS01
+                  - cell "107.62" [ref=e1507]
+                  - cell "2.42" [ref=e1508]
+                  - cell "136.15" [ref=e1509]
+                  - cell "71.50" [ref=e1510]
+                  - cell "113,586.91" [ref=e1511]
+                - row "Hitachi Energy 25,065.00 3.42 26,325.00 10,400.00 111,720.63" [ref=e1512]:
+                  - cell "Hitachi Energy" [ref=e1513]:
+                    - link "Hitachi Energy" [ref=e1514] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/electric-equipment/hitachienergyindia/APP03
+                  - cell "25,065.00" [ref=e1515]
+                  - cell "3.42" [ref=e1516]
+                  - cell "26,325.00" [ref=e1517]
+                  - cell "10,400.00" [ref=e1518]
+                  - cell "111,720.63" [ref=e1519]
+                - row "INDUS TOWERS 423.25 1.22 481.50 312.55 111,660.24" [ref=e1520]:
+                  - cell "INDUS TOWERS" [ref=e1521]:
+                    - link "INDUS TOWERS" [ref=e1522] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/telecommunications-equipment/industowers/BI14
+                  - cell "423.25" [ref=e1523]
+                  - cell "1.22" [ref=e1524]
+                  - cell "481.50" [ref=e1525]
+                  - cell "312.55" [ref=e1526]
+                  - cell "111,660.24" [ref=e1527]
+                - row "TMPV 302.95 2.28 446.40 294.30 111,557.63" [ref=e1528]:
+                  - cell "TMPV" [ref=e1529]:
+                    - link "TMPV" [ref=e1530] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/auto-lcvs-hcvs/tatamotorspassengervehicles/TM03
+                  - cell "302.95" [ref=e1531]
+                  - cell "2.28" [ref=e1532]
+                  - cell "446.40" [ref=e1533]
+                  - cell "294.30" [ref=e1534]
+                  - cell "111,557.63" [ref=e1535]
+                - row "Siemens 3,017.00 2.79 5,324.00 2,450.00 107,441.56" [ref=e1536]:
+                  - cell "Siemens" [ref=e1537]:
+                    - link "Siemens" [ref=e1538] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/infrastructure-general/siemens/S
+                  - cell "3,017.00" [ref=e1539]
+                  - cell "2.79" [ref=e1540]
+                  - cell "5,324.00" [ref=e1541]
+                  - cell "2,450.00" [ref=e1542]
+                  - cell "107,441.56" [ref=e1543]
+                - row "CG Power 680.30 3.85 797.55 517.70 107,141.89" [ref=e1544]:
+                  - cell "CG Power" [ref=e1545]:
+                    - link "CG Power" [ref=e1546] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/electric-equipment/cgpowerindustrialsolutions/CG
+                  - cell "680.30" [ref=e1547]
+                  - cell "3.85" [ref=e1548]
+                  - cell "797.55" [ref=e1549]
+                  - cell "517.70" [ref=e1550]
+                  - cell "107,141.89" [ref=e1551]
+                - row "Apollo Hospital 7,305.50 -1.53 8,099.50 6,490.85 105,041.88" [ref=e1552]:
+                  - cell "Apollo Hospital" [ref=e1553]:
+                    - link "Apollo Hospital" [ref=e1554] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/hospitals-medical-services/apollohospitalsenterprises/AHE
+                  - cell "7,305.50" [ref=e1555]
+                  - cell "-1.53" [ref=e1556]
+                  - cell "8,099.50" [ref=e1557]
+                  - cell "6,490.85" [ref=e1558]
+                  - cell "105,041.88" [ref=e1559]
+                - row "Polycab 6,925.00 1.19 8,722.00 4,567.00 104,257.71" [ref=e1560]:
+                  - cell "Polycab" [ref=e1561]:
+                    - link "Polycab" [ref=e1562] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/cables-power-others/polycabindia/PI44
+                  - cell "6,925.00" [ref=e1563]
+                  - cell "1.19" [ref=e1564]
+                  - cell "8,722.00" [ref=e1565]
+                  - cell "4,567.00" [ref=e1566]
+                  - cell "104,257.71" [ref=e1567]
+                - row "Lupin 2,274.90 -1.69 2,377.60 1,795.20 104,003.68" [ref=e1568]:
+                  - cell "Lupin" [ref=e1569]:
+                    - link "Lupin" [ref=e1570] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/lupin/L
+                  - cell "2,274.90" [ref=e1571]
+                  - cell "-1.69" [ref=e1572]
+                  - cell "2,377.60" [ref=e1573]
+                  - cell "1,795.20" [ref=e1574]
+                  - cell "104,003.68" [ref=e1575]
+                - row "Ambuja Cements 420.35 4.76 624.95 394.00 103,903.10" [ref=e1576]:
+                  - cell "Ambuja Cements" [ref=e1577]:
+                    - link "Ambuja Cements" [ref=e1578] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/cement-major/ambujacements/AC18
+                  - cell "420.35" [ref=e1579]
+                  - cell "4.76" [ref=e1580]
+                  - cell "624.95" [ref=e1581]
+                  - cell "394.00" [ref=e1582]
+                  - cell "103,903.10" [ref=e1583]
+                - row "Hero Motocorp 5,122.00 1.17 6,388.50 3,344.00 102,485.98" [ref=e1584]:
+                  - cell "Hero Motocorp" [ref=e1585]:
+                    - link "Hero Motocorp" [ref=e1586] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/auto-2-3-wheelers/heromotocorp/HHM
+                  - cell "5,122.00" [ref=e1587]
+                  - cell "1.17" [ref=e1588]
+                  - cell "6,388.50" [ref=e1589]
+                  - cell "3,344.00" [ref=e1590]
+                  - cell "102,485.98" [ref=e1591]
+                - row "Godrej Consumer 997.55 1.29 1,309.00 981.30 102,073.76" [ref=e1592]:
+                  - cell "Godrej Consumer" [ref=e1593]:
+                    - link "Godrej Consumer" [ref=e1594] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/personal-care/godrejconsumerproducts/GCP
+                  - cell "997.55" [ref=e1595]
+                  - cell "1.29" [ref=e1596]
+                  - cell "1,309.00" [ref=e1597]
+                  - cell "981.30" [ref=e1598]
+                  - cell "102,073.76" [ref=e1599]
+                - row "Billionbrains G 161.55 7.61 193.80 112.00 101,359.71" [ref=e1600]:
+                  - cell "Billionbrains G" [ref=e1601]:
+                    - link "Billionbrains G" [ref=e1602] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/finance-stock-broking/billionbrainsgarageventures/BGV01
+                  - cell "161.55" [ref=e1603]
+                  - cell "7.61" [ref=e1604]
+                  - cell "193.80" [ref=e1605]
+                  - cell "112.00" [ref=e1606]
+                  - cell "101,359.71" [ref=e1607]
+                - row "TATA Cons. Prod 1,023.80 0.89 1,220.90 1,010.80 101,311.34" [ref=e1608]:
+                  - cell "TATA Cons. Prod" [ref=e1609]:
+                    - link "TATA Cons. Prod" [ref=e1610] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/plantations-tea-coffee/tataconsumerproducts/TT
+                  - cell "1,023.80" [ref=e1611]
+                  - cell "0.89" [ref=e1612]
+                  - cell "1,220.90" [ref=e1613]
+                  - cell "1,010.80" [ref=e1614]
+                  - cell "101,311.34" [ref=e1615]
+                - row "Dr Reddys Labs 1,209.60 -3.61 1,379.70 1,020.00 100,960.11" [ref=e1616]:
+                  - cell "Dr Reddys Labs" [ref=e1617]:
+                    - link "Dr Reddys Labs" [ref=e1618] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/drreddyslaboratories/DRL
+                  - cell "1,209.60" [ref=e1619]
+                  - cell "-3.61" [ref=e1620]
+                  - cell "1,379.70" [ref=e1621]
+                  - cell "1,020.00" [ref=e1622]
+                  - cell "100,960.11" [ref=e1623]
+                - row "HDFC AMC 2,340.50 5.60 2,967.25 1,783.43 100,267.06" [ref=e1624]:
+                  - cell "HDFC AMC" [ref=e1625]:
+                    - link "HDFC AMC" [ref=e1626] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/finance-investments/hdfcassetmanagementcompany/HAM02
+                  - cell "2,340.50" [ref=e1627]
+                  - cell "5.60" [ref=e1628]
+                  - cell "2,967.25" [ref=e1629]
+                  - cell "1,783.43" [ref=e1630]
+                  - cell "100,267.06" [ref=e1631]
+                - row "Bajaj Holdings 8,907.00 1.84 14,763.00 8,712.00 99,129.13" [ref=e1632]:
+                  - cell "Bajaj Holdings" [ref=e1633]:
+                    - link "Bajaj Holdings" [ref=e1634] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/finance-investments/bajajholdingsinvestment/BHI
+                  - cell "8,907.00" [ref=e1635]
+                  - cell "1.84" [ref=e1636]
+                  - cell "14,763.00" [ref=e1637]
+                  - cell "8,712.00" [ref=e1638]
+                  - cell "99,129.13" [ref=e1639]
+                - row "GE Vernova TD 3,798.70 4.35 4,344.00 1,254.00 97,264.40" [ref=e1640]:
+                  - cell "GE Vernova TD" [ref=e1641]:
+                    - link "GE Vernova TD" [ref=e1642] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/power-transmission-equipment/gevernovatdindia/ATD
+                  - cell "3,798.70" [ref=e1643]
+                  - cell "4.35" [ref=e1644]
+                  - cell "4,344.00" [ref=e1645]
+                  - cell "1,254.00" [ref=e1646]
+                  - cell "97,264.40" [ref=e1647]
+                - row "Marico 744.50 1.16 813.50 643.80 96,647.19" [ref=e1648]:
+                  - cell "Marico" [ref=e1649]:
+                    - link "Marico" [ref=e1650] [cursor=pointer]:
+                      - /url: https://www.moneycontrol.com/india/stockpricequote/personal-care/marico/M13
+                  - cell "744.50" [ref=e1651]
+                  - cell "1.16" [ref=e1652]
+                  - cell "813.50" [ref=e1653]
+                  - cell "643.80" [ref=e1654]
+                  - cell "96,647.19" [ref=e1655]
+            - generic [ref=e1657]:
+              - generic [ref=e1658]:
+                - heading "all stats" [level=3] [ref=e1659]
+                - generic [ref=e1660]:
+                  - list:
+                    - listitem [ref=e1661]:
+                      - generic [ref=e1662] [cursor=pointer]: Markets
+                    - listitem [ref=e1664]:
+                      - generic [ref=e1665] [cursor=pointer]: Technicals
+                    - listitem [ref=e1666]:
+                      - generic [ref=e1667] [cursor=pointer]: F&O
+                    - listitem [ref=e1668]:
+                      - generic [ref=e1669] [cursor=pointer]: Corporates
+              - generic [ref=e1670]:
+                - generic:
+                  - list [ref=e1672]:
+                    - listitem [ref=e1673]:
+                      - link "Top Gainers" [ref=e1674] [cursor=pointer]:
+                        - /url: https://www.moneycontrol.com/stocks/marketstats/bsegainer/
+                    - listitem [ref=e1675]:
+                      - link "Top Losers" [ref=e1676] [cursor=pointer]:
+                        - /url: https://www.moneycontrol.com/stocks/marketstats/bseloser/
+                    - listitem [ref=e1677]:
+                      - link "Only Buyers" [ref=e1678] [cursor=pointer]:
+                        - /url: https://www.moneycontrol.com/stocks/marketstats/onlybuyers.php
+                    - listitem [ref=e1679]:
+                      - link "Only Seller" [ref=e1680] [cursor=pointer]:
+                        - /url: https://www.moneycontrol.com/stocks/marketstats/onlysellers.php
+                    - listitem [ref=e1681]:
+                      - link "Bulk Deals" [ref=e1682] [cursor=pointer]:
+                        - /url: https://www.moneycontrol.com/stocks/marketstats/blockdeals/nse/index.php
+                  - list [ref=e1684]:
+                    - listitem [ref=e1685]:
+                      - link "Most Active Stocks" [ref=e1686] [cursor=pointer]:
+                        - /url: https://www.moneycontrol.com/stocks/marketstats/bsemact1/
+                    - listitem [ref=e1687]:
+                      - link "Intraday Large Deals" [ref=e1688] [cursor=pointer]:
+                        - /url: https://www.moneycontrol.com/stocks/marketstats/blockdeals/
+                    - listitem [ref=e1689]:
+                      - link "Volume Shockers" [ref=e1690] [cursor=pointer]:
+                        - /url: https://www.moneycontrol.com/stocks/marketstats/bse_vshockers/
+                    - listitem [ref=e1691]:
+                      - link "Price Shockers" [ref=e1692] [cursor=pointer]:
+                        - /url: https://www.moneycontrol.com/stocks/marketstats/bse_pshockers/
+                    - listitem [ref=e1693]:
+                      - link "Recovery from Intraday Low" [ref=e1694] [cursor=pointer]:
+                        - /url: https://www.moneycontrol.com/stocks/marketstats/off_intralows/bse/index.php?indid=-1
+                  - list [ref=e1696]:
+                    - listitem [ref=e1697]:
+                      - link "52-week high" [ref=e1698] [cursor=pointer]:
+                        - /url: https://www.moneycontrol.com/stocks/marketstats/bsehigh/
+                    - listitem [ref=e1699]:
+                      - link "52-week low" [ref=e1700] [cursor=pointer]:
+                        - /url: https://www.moneycontrol.com/stocks/marketstats/bselow/
+                    - listitem [ref=e1701]:
+                      - link "Hourly Gainers" [ref=e1702] [cursor=pointer]:
+                        - /url: https://www.moneycontrol.com/stocks/marketstats/hourly_gain/bse/curr_hour/
+                    - listitem [ref=e1703]:
+                      - link "Hourly Losers" [ref=e1704] [cursor=pointer]:
+                        - /url: https://www.moneycontrol.com/stocks/marketstats/hourly_loss/bse/curr_hour/
+                    - listitem [ref=e1705]:
+                      - link "Fall from intraday high" [ref=e1706] [cursor=pointer]:
+                        - /url: https://www.moneycontrol.com/stocks/marketstats/off_intrahighs/bse/index.php?indid=-1
+                  - list [ref=e1708]:
+                    - listitem [ref=e1709]:
+                      - link "MF Activity" [ref=e1710] [cursor=pointer]:
+                        - /url: https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php
+                    - listitem [ref=e1711]:
+                      - link "FII Activity" [ref=e1712] [cursor=pointer]:
+                        - /url: https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php
+                    - listitem [ref=e1713]:
+                      - link "DII Activity" [ref=e1714] [cursor=pointer]:
+                        - /url: https://www.moneycontrol.com/stocks/marketstats/fii_dii_activity/index.php
+                    - listitem [ref=e1715]:
+                      - link "Indian Indices" [ref=e1716] [cursor=pointer]:
+                        - /url: https://www.moneycontrol.com/markets/indian-indices/
+                    - listitem [ref=e1717]:
+                      - link "Global Indices" [ref=e1718] [cursor=pointer]:
+                        - /url: https://www.moneycontrol.com/markets/global-indices/
+              - iframe [ref=e1723]:
+                - link [ref=f20e2] [cursor=pointer]:
+                  - /url: https://googleads.g.doubleclick.net/pcs/click?xai=AKAOjsvPmSk8ITel0NXJW1mlJl6zFfJJEPfV1u8QoQMvVfOPMh_pLhQ0Y-sKdTHUih9Iqy-9q0cSkXnRAX_LtDOW_i1x_ZwERIE7XgzBWV6jUGqRt21RAPEYZEFZ7u3OnpkYjX7cxNEwQTa2lpubP15zLXg-MCBVzcjjBBdMpQv87oY9A_Xm3gF_HnYFUOAiMuaVKDSSgGbwplidimPbxosi9U8FLEnYLmEkuFrVDuquE9SnbFSFxdYp9BeeSjxr8A50bSxIqgGHZjdv1biKR8J8iEAypPiIsExtboOmGlnlk3ItZUpdHekV7ItGu2hFTZj2C5f-WMA_rrK5jsNlisnlBTrkQunWgyMCnG9M6KMM_-jvPX3PJotNd-VRjHVCtb_BqsimHAFZjXr_Khb41XRUYXFVV2xawvjfXbA2OUxJRD7N-6-2aEXVcGgDm_GK3vE45hgX9jDH6U-_FhsMa7ZxkYynnEzeBhQAdytJQCw&sai=AMfl-YSFStVf3k_Do09i_NthynvcT8LxP_jbju3QnClGkl0wtPI1hipy4ZeFEyEgjF1A_76YSvik5oy5ic_L5_z9gyJG4FtMaBPXFKmViITtnMsrFV6PP6wh5zL4xeXNyFOcTWPZIKyPmHgQpbE5JYSkiwEoyDcOzVe1k-WldnrkEpamED8Uh_CjdAB5h745KNgQ8ICW05pkCjuhOFiKbE7q787h0obhS9XGmEfVCx-qjb7XXP-pnuYd-t5xYiIB-stVkeSy7uRISCJPHQAKEgj1b5QuSei57YvOgvlHf-crVKH5ePaEuJboq9-jc6rVYGft9kVoJp2NjLQA8q14rdNxvOWn9PO4T9XUugeegvEDpjhfRr5MDmyRn7cMkQgpZQvNAN5YOhO_-Gat9EtnyqbFGNfZUwpPObi_Fzhzj4YPVXY8KeY&sig=Cg0ArKJSzDhh1DrkrS78&fbs_aeid=%5Bgw_fbsaeid%5D&adurl=https://www.moneycontrolpay.com/%3Futm_source%3DMnctrlStaticROSEnglish
+          - iframe [ref=e1732]:
+            - generic [active] [ref=f23e1]:
+              - link [ref=f23e2] [cursor=pointer]:
+                - /url: "#"
+                - text: ___
+              - link [ref=f23e6] [cursor=pointer]:
+                - /url: https://adclick.g.doubleclick.net/aclk?sa=L&ai=CZh04sEzNaZCLO_7MssUP4v-h0QrGu4edf52cudWKCsCNtwEQASD_58geYOWCgICYDsgBCeACAKgDAcgDAqoE6wJP0O5QxFYy2xO37Ubs8o_S9TKibT3zSpw4b3mdHVWzNOQ6uIWFET7Ns76kMOns6gniTLHHNO0h7QWWeCYQRd4LXW4J_pmq_eSbc3djG9c7lENzmwXPnpsO8FUCQTD_8LNRT-CUQWdZM52xriCY1AAzB5F0BNzZDKFteeBASPB6-tIEWzKCDP2PmwP9duyCTPAEgq06-8ZLYB8y7Bb7Il9iuO3zA8p9zjY57VBvIbp37_CaNZnmFQZc488EvSErMheqTuDNgstRnRWHWNvDVkqwn-2TXkdOzEE7n_WzDhgxPJd0hoaIPkxYOyi9Vqpfv96MOCs5IHX5G2MO9NZEDewGqCI5W9EIpHn6dFpeK0DJv16-wgXUuH4DuqDWVxZizw9wfprdwq-ZzoolfhcogOlgSYLtyoOutKFXW-mFKyV16C753cjyj_w-v1wNi7DT5BJ4d_uRyUplVByI9stT1aamWEvQtF_EGZSqWQbgBAGABpuMoMmW3Y6EyAGgBiGoB5PYsQKoB5TYsQKoB5XYsQKoB6a-G6gHltgbqAeqm7ECqAf_nrECqAffn7ECqAetvrECqAe_07EC2AcA0ggsCIBhEAEyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpY2uSD-43NkwP6CwIIAYAMAaoNAklO4g0TCKSjhPuNzZMDFX6mrAId4n8oquoNEwi6-IT7jc2TAxV-pqwCHeJ_KKqIDv___________wHQFQGAFwGyFxAYDCoKODM4NzM2OTQ4NVABqhgXCc3MzMwEiONAEgo4Mzg3MzY5NDg1GAE&num=1&sig=AOD64_1yiCUkY1JidBM440eNcRULlhXfrQ&client=ca-pub-2192002536170159&adurl=https%3A%2F%2Fr1.outbrain.com%2Frp3%2Fb1_googleadx%2F71158610%2F203518562%2Fce362a5e-2dea-11f1-bed0-55b1603c4bcb%2FPYJHPH3A55LZIYVUIRVAC4DD7MWMAMKMY2ZY6G7Z7A5DLOLQOKSMO54ZBDPKP5KEZH5YYJUTCYDMHK6DCXT6EQY3XPHLI3NE3GAQSR6QA4QB454NGK5SSR7NCTUEDLOUBWXTJP4G4YWWNV3LULHEFFGKAC4LSD3MU33Z2TZV5OS2HTIO6CRY2KDYU5ZWANCPJUW4GX6RSZ3CQOYGSUPQHFTN7GO4UINVCMAYBFVN6OMXPXCHDTM4WEULHVKESQDW2OPGICZBS3O55PJ4RRFWVAMRW6IBIIS45DYAVLBS4SAOESYHHDFOGH5WRUSKUP4D3TKFGWEZJRVCW4TPLZD72ZQ632NWNKAGUCE53PYEJQ7OOE5UPKDGEUKGIZ3A6M32UKAFYXS5GQH2625WYRKSCBELUQ34Y2BI5LRKQINTAWE35IN7QN2Q6LDGI4P2X7QN3EDBIZCNT745CKCPOQL4C32WEHMADNI3J3TORFICOQGZTWP44WALXUYRNVCODWFAQJERVN6BNPAQHS672KP5VW5YIEZCWYHJ63YOLTNZWQJWDREPPVJZWY456ZRY2ZRGY3XKKH7VFOL42BVTEZV3FVFYL6I4K7PIZQ5QWCW5KQKOHDZD3BVBHYFUMK46TZ3RBMFUBLNP6RZJF7C6UJEM4U7AHYU5ZSXBSROHFQL4LUDD7WG3WDKV5KWGA5HE53LNHA7NE4IHIF7D7VTKG3DXGTDQYAGU75I7GINDCPDSSTAUOZGJT5GSHLD3BPM5P3WAMBWYMSLYD2EP6W63N4USP2IHHH6RI2CCJWFINC6E6YWZYSRM5RDPQRHTUTTO3S64LBS7QBVBBYCNMY6QR72PCOGY33QHOR326FXAZDMT2YL6WFKW2QZVZAKF6WHGGMRXFSHY5BKTLT64NM2RCYPMSMQGT43HCF2A7YU2DL3JHISBJZ7ZLP56MVDFB5HP5SFD6VEMQV4MLN2GKO6RZXJB6KTM5ZMBLQAJ7ZDDN6GA3DLVZOZA3WYE2BLQGE5DAOK3JIDVBUJCVOLFMVY4HRXZ2NE4CT6S4HJGYFLD3MQC7ORUOHVB7WRJUPO2RKQ5MSNSROR2TWVH3SZZ7NXJTE5UUPQYZI%2F
+                - img [ref=f23e7]
+    - contentinfo [ref=e1734]:
+      - generic [ref=e1736]:
+        - img "moneycontrol" [ref=e1738]
+        - generic [ref=e1739]:
+          - generic [ref=e1740]: "Follow Us On:"
+          - list [ref=e1741]:
+            - listitem [ref=e1742]:
+              - link "Facebook link (1 of 8)" [ref=e1743] [cursor=pointer]:
+                - /url: https://www.facebook.com/moneycontrol
+                - img "Facebook" [ref=e1744]
+            - listitem [ref=e1745]:
+              - link "Twitter link (2 of 8)" [ref=e1746] [cursor=pointer]:
+                - /url: https://twitter.com/moneycontrolcom
+                - img "twitter" [ref=e1747]
+            - listitem [ref=e1748]:
+              - link "Instagram link (3 of 8)" [ref=e1749] [cursor=pointer]:
+                - /url: https://www.instagram.com/moneycontrolcom/
+                - img "instagram" [ref=e1750]
+            - listitem [ref=e1751]:
+              - link "LinkedIn link (4 of 8)" [ref=e1752] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/moneycontrol
+                - img "linkedin" [ref=e1753]
+            - listitem [ref=e1754]:
+              - link "YouTube link (6 of 8)" [ref=e1755] [cursor=pointer]:
+                - /url: https://www.youtube.com/@moneycontrol
+                - img "youtube" [ref=e1756]
+            - listitem [ref=e1757]:
+              - link "RSS link (7 of 8)" [ref=e1758] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/india/newsarticle/rssfeeds/rssfeeds.php
+                - img [ref=e1759]
+            - listitem [ref=e1766]:
+              - link "Forum link (8 of 8)" [ref=e1767] [cursor=pointer]:
+                - /url: https://mmb.moneycontrol.com/
+                - img [ref=e1768]
+      - generic [ref=e1773]:
+        - generic [ref=e1775]:
+          - link "Stocks:" [ref=e1777] [cursor=pointer]:
+            - /url: https://www.moneycontrol.com/india/stockpricequote/
+          - list [ref=e1778]:
+            - listitem [ref=e1779]:
+              - link "Companies starting with A" [ref=e1780] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/india/stockpricequote/A
+                - text: A
+            - listitem [ref=e1781]:
+              - link "Companies starting with B" [ref=e1782] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/india/stockpricequote/B
+                - text: B
+            - listitem [ref=e1783]:
+              - link "Companies starting with C" [ref=e1784] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/india/stockpricequote/C
+                - text: C
+            - listitem [ref=e1785]:
+              - link "Companies starting with D" [ref=e1786] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/india/stockpricequote/D
+                - text: D
+            - listitem [ref=e1787]:
+              - link "Companies starting with E" [ref=e1788] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/india/stockpricequote/E
+                - text: E
+            - listitem [ref=e1789]:
+              - link "Companies starting with F" [ref=e1790] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/india/stockpricequote/F
+                - text: F
+            - listitem [ref=e1791]:
+              - link "Companies starting with G" [ref=e1792] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/india/stockpricequote/G
+                - text: G
+            - listitem [ref=e1793]:
+              - link "Companies starting with H" [ref=e1794] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/india/stockpricequote/H
+                - text: H
+            - listitem [ref=e1795]:
+              - link "Companies starting with I" [ref=e1796] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/india/stockpricequote/I
+                - text: I
+            - listitem [ref=e1797]:
+              - link "Companies starting with J" [ref=e1798] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/india/stockpricequote/J
+                - text: J
+            - listitem [ref=e1799]:
+              - link "Companies starting with K" [ref=e1800] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/india/stockpricequote/K
+                - text: K
+            - listitem [ref=e1801]:
+              - link "Companies starting with L" [ref=e1802] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/india/stockpricequote/L
+                - text: L
+            - listitem [ref=e1803]:
+              - link "Companies starting with M" [ref=e1804] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/india/stockpricequote/M
+                - text: M
+            - listitem [ref=e1805]:
+              - link "Companies starting with N" [ref=e1806] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/india/stockpricequote/N
+                - text: "N"
+            - listitem [ref=e1807]:
+              - link "Companies starting with O" [ref=e1808] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/india/stockpricequote/O
+                - text: O
+            - listitem [ref=e1809]:
+              - link "Companies starting with P" [ref=e1810] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/india/stockpricequote/P
+                - text: P
+            - listitem [ref=e1811]:
+              - link "Companies starting with Q" [ref=e1812] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/india/stockpricequote/Q
+                - text: Q
+            - listitem [ref=e1813]:
+              - link "Companies starting with R" [ref=e1814] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/india/stockpricequote/R
+                - text: R
+            - listitem [ref=e1815]:
+              - link "Companies starting with S" [ref=e1816] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/india/stockpricequote/S
+                - text: S
+            - listitem [ref=e1817]:
+              - link "Companies starting with T" [ref=e1818] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/india/stockpricequote/T
+                - text: T
+            - listitem [ref=e1819]:
+              - link "Companies starting with U" [ref=e1820] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/india/stockpricequote/U
+                - text: U
+            - listitem [ref=e1821]:
+              - link "Companies starting with V" [ref=e1822] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/india/stockpricequote/V
+                - text: V
+            - listitem [ref=e1823]:
+              - link "Companies starting with W" [ref=e1824] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/india/stockpricequote/W
+                - text: W
+            - listitem [ref=e1825]:
+              - link "Companies starting with X" [ref=e1826] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/india/stockpricequote/X
+                - text: X
+            - listitem [ref=e1827]:
+              - link "Companies starting with Y" [ref=e1828] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/india/stockpricequote/Y
+                - text: "Y"
+            - listitem [ref=e1829]:
+              - link "Companies starting with Z" [ref=e1830] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/india/stockpricequote/Z
+                - text: Z
+            - listitem [ref=e1831]:
+              - link "Companies starting with Others" [ref=e1832] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/india/stockpricequote/others
+                - text: Others
+        - generic [ref=e1833]:
+          - heading "Trending Topics" [level=2] [ref=e1834]
+          - generic [ref=e1835]:
+            - button "More Trending Topics" [ref=e1836] [cursor=pointer]:
+              - text: more
+              - img [ref=e1837]
+            - paragraph [ref=e1838]:
+              - link "Sensex" [ref=e1839] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/news/business/markets/sensex-today-stock-market-live-updates-nifty50-share-price-crude-fii-gift-nifty-rupee-latest-updates-01-04-2026-liveblog-13876119.html
+              - link "Iran War News Live" [ref=e1840] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/world/us-israel-iran-war-news-live-updates-missile-drone-attacks-mines-in-strait-of-hormuz-1st-april-2026-liveblog-13876117.html
+              - link "Gold Silver Rate Today" [ref=e1841] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/news/business/personal-finance/gold-silver-rate-in-india-live-updates-todays-mcx-gold-silver-prices-etf-comex-april-1-liveblog-13876170.html
+              - link "April 1 Financial Rule Changes" [ref=e1842] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/news/business/april-1-financial-rule-change-live-updates-itr-tds-pan-lpg-prices-trian-ticket-rules-stt-hike-fasttag-atm-withdrawl-labour-laws-liveblog-13876109.html
+              - link "Commercial GAS Price" [ref=e1843] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/news/india/commercial-lpg-gets-costlier-by-rs-195-5-13876116.html
+              - link "Anthropic leak" [ref=e1844] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/news/business/inside-the-anthropic-leak-4-hidden-claude-features-that-could-redefine-ai-forever-13876269.html
+              - link "Assembly Elections 2026 Live" [ref=e1845] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/news/india/live-updates-2026-assembly-elections-in-west-bengal-tamil-nadu-kerala-assam-puducherry-1-april-2026-liveblog-13876201.html
+              - link "Capital Markets Stocks" [ref=e1846] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/news/business/markets/motilal-oswal-bse-other-capital-market-stocks-rise-up-to-7-as-rbi-defers-new-rules-till-july-1-13876354.html
+              - link "Jet Fuel" [ref=e1847] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/news/business/jet-fuel-up-8-5-to-rs-1-04-lakhkl-not-rs-2-lakh-indian-oil-issues-clarification-13876157.html
+              - link "KEAM Hall Ticket" [ref=e1848] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/education/keam-hall-ticket-2026-out-today-cee-kerala-gov-in-direct-link-here-article-13876272.html
+        - generic [ref=e1849]:
+          - heading "News" [level=2] [ref=e1850]
+          - paragraph [ref=e1852]:
+            - link "Business" [ref=e1853] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/news/business/
+            - link "Markets" [ref=e1854] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/news/business/markets/
+            - link "Stocks" [ref=e1855] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/news/business/stocks/
+            - link "India News" [ref=e1856] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/news/india/
+            - link "City News" [ref=e1857] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/city/
+            - link "Economy" [ref=e1858] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/news/business/economy/
+            - link "Mutual Funds" [ref=e1859] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/news/business/mutual-funds/
+            - link "Personal Finance" [ref=e1860] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/news/business/personal-finance/
+            - link "IPO News" [ref=e1861] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/news/business/ipo/
+            - link "Startups" [ref=e1862] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/news/business/startup/
+        - generic [ref=e1863]:
+          - heading "Markets" [level=2] [ref=e1864]
+          - paragraph [ref=e1866]:
+            - link "Home" [ref=e1867] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/stocksmarketsindia/
+            - link "Currencies" [ref=e1868] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/markets/currencies/
+            - link "Commodities" [ref=e1869] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/commodity/
+            - link "Pre-Market" [ref=e1870] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/markets/premarket/
+            - link "IPO" [ref=e1871] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/ipo/
+            - link "Global Market" [ref=e1872] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/markets/global-indices/
+            - link "Bonds" [ref=e1873] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/bonds/
+            - link "Silver MCX Price" [ref=e1874] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/commodity/mcx-silver-price/
+            - link "Gold MCX Price" [ref=e1875] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/commodity/mcx-gold-price/
+        - generic [ref=e1876]:
+          - heading "Personal Finance" [level=2] [ref=e1877]
+          - paragraph [ref=e1879]:
+            - link "Home" [ref=e1880] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/personal-finance/
+            - link "Loans up to 50 Lakhs" [ref=e1881] [cursor=pointer]:
+              - /url: https://www.moneycontrolpay.com/?sso=
+            - link "Credit Cards Lifetime Free" [ref=e1882] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/credit-cards
+            - link "Finance Tracker New" [ref=e1883] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/account-aggregator
+              - text: Finance Tracker
+              - generic [ref=e1884]: New
+            - link "Fixed Deposits" [ref=e1885] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/fixed-deposit
+            - link "Fixed Deposit Comparison" [ref=e1886] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/fixed-deposit/fd-interest-rates/
+            - link "Fixed Income" [ref=e1887] [cursor=pointer]:
+              - /url: https://www.thefixedincome.com/
+        - generic [ref=e1888]:
+          - heading "Mutual Funds" [level=2] [ref=e1889]
+          - paragraph [ref=e1891]:
+            - link "Home" [ref=e1892] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/mutual-funds/
+            - link "Performance Tracker" [ref=e1893] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/mutual-funds/performance-tracker/returns/large-cap-fund.html?invCatgryId=925732860
+            - link "Top Ranked Funds" [ref=e1894] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/mutual-funds/find-fund/top-rated-schemes/
+            - link "ETFs" [ref=e1895] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/mf/etf/
+            - link "Mutual Fund Screener" [ref=e1896] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/mutual-funds/find-fund/
+        - generic [ref=e1897]:
+          - heading "Tools" [level=2] [ref=e1898]
+          - paragraph [ref=e1900]:
+            - link "Income Tax Calculator" [ref=e1901] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/personal-finance/tools/income-tax-calculator
+            - link "EMI Calculator" [ref=e1902] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/personal-finance/tools/emi-calculator.html
+            - link "Retirement Planning" [ref=e1903] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/personal-finance/tools/retirement-planning-calculator.html
+            - link "Gratuity Calculator" [ref=e1904] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/personal-finance/tools/gratuity-calculator.html
+            - link "Petrol Price in India" [ref=e1905] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/fuel-price/petrol-price-in-india/
+            - link "Diesel Price in India" [ref=e1906] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/fuel-price/diesel-price-in-india/
+            - link "IFSC Code" [ref=e1907] [cursor=pointer]:
+              - /url: https://www.moneycontrol.com/banking/ifsc/
+        - generic [ref=e1908]:
+          - heading "Community" [level=2] [ref=e1909]
+          - paragraph [ref=e1911]:
+            - link "Stock Markets" [ref=e1912] [cursor=pointer]:
+              - /url: https://mmb.moneycontrol.com/
+        - generic [ref=e1913]:
+          - heading "Network 18 Sites" [level=2] [ref=e1914]
+          - paragraph [ref=e1916]:
+            - link "News18" [ref=e1917] [cursor=pointer]:
+              - /url: https://www.news18.com/
+            - link "Firstpost" [ref=e1918] [cursor=pointer]:
+              - /url: https://www.firstpost.com/
+            - link "CNBC TV18" [ref=e1919] [cursor=pointer]:
+              - /url: https://www.cnbctv18.com/
+            - link "News18 Hindi" [ref=e1920] [cursor=pointer]:
+              - /url: https://hindi.news18.com/
+            - link "Cricketnext" [ref=e1921] [cursor=pointer]:
+              - /url: https://www.news18.com/cricket/
+            - link "Overdrive" [ref=e1922] [cursor=pointer]:
+              - /url: https://www.overdrive.in/
+        - generic [ref=e1923]:
+          - heading "Quick Links" [level=2] [ref=e1924]
+          - generic [ref=e1925]:
+            - button "More Quick Links" [ref=e1926] [cursor=pointer]:
+              - text: more
+              - img [ref=e1927]
+            - paragraph [ref=e1928]:
+              - link "About Us" [ref=e1929] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/cdata/aboutus.php
+              - link "Contact Us" [ref=e1930] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/cdata/contact.php
+              - link "Advisory Alert" [ref=e1931] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/cdata/advisory-alert.php
+              - link "Advertise with Us" [ref=e1932] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/advertise-on-moneycontrol.html
+              - link "Support" [ref=e1933] [cursor=pointer]:
+                - /url: javascript:;
+              - link "Disclaimer" [ref=e1934] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/cdata/disclaim.php
+              - link "Privacy Policy" [ref=e1935] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/cdata/privacypolicy.php
+              - link "Cookie Policy" [ref=e1936] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/cdata/gdpr_cookiepolicy.php
+              - link "Terms & Conditions" [ref=e1937] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/cdata/termsofuse.php
+              - link "Financial Terms (Glossary)" [ref=e1938] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/glossary/
+              - link "Sitemap" [ref=e1939] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/sitemap.php
+              - link "Investors" [ref=e1940] [cursor=pointer]:
+                - /url: https://www.moneycontrol.com/investors/
+        - generic [ref=e1941]:
+          - generic [ref=e1942]:
+            - generic [ref=e1943]: "Download MC Apps:"
+            - link "Google store" [ref=e1944] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.divum.MoneyControl&referrer=utm_source%3DWebAppsPage%26utm_medium%3DInstallButton
+              - img "Google store"
+            - link "App store" [ref=e1945] [cursor=pointer]:
+              - /url: https://itunes.apple.com/app/apple-store/id408654600?pt=433541&ct=WebAppsPage_Install&mt=8
+              - img "App store"
+          - link "Bsi" [ref=e1947] [cursor=pointer]:
+            - /url: https://images.moneycontrol.com/pdffiles/IS-739420-I.pdf
+            - img "Bsi"
+        - paragraph [ref=e1949]: Copyright © Network18 Media & Investments Limited. All rights reserved. Reproduction of news articles, photos, videos or any other content in whole or in part in any form or medium without express written permission of moneycontrol.com is prohibited.
+  - alert [ref=e1950]
+```
