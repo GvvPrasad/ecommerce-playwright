@@ -2,20 +2,20 @@ pipeline {
     agent any
 
     tools {
-        nodejs "NodeJS 24.11.1"
+        nodejs "NodeJS"
     }
 
     stages {
 
         stage('Checkout Code') {
             steps {
-                git 'https://github.com/GvvPrasad/ecommerce-playwright.git'
+                git branch: 'main', url: 'https://github.com/GvvPrasad/ecommerce-playwright.git'
             }
         }
 
         stage('Install Dependencies') {
             steps {
-                sh 'npm ci'
+                sh 'npm install'
             }
         }
 
@@ -25,7 +25,7 @@ pipeline {
             }
         }
 
-        stage('Run Tests') {
+        stage('Run Playwright Tests') {
             steps {
                 sh 'npx playwright test'
             }
