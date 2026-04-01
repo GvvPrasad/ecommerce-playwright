@@ -11,7 +11,7 @@ pipeline {
         }
         stage('Install Dependencies') {
             steps {
-                sh '''
+                powerShell '''
             npm install
             npx playwright install
         '''
@@ -19,7 +19,9 @@ pipeline {
         }
         stage('Run Playwright Tests') {
             steps {
-                sh 'npx playwright test'
+                powerShell '''
+            npx playwright test
+        '''
             }
         }
         stage('Publish Report') {
