@@ -2,14 +2,14 @@ pipeline {
     agent any
 
     tools {
-        nodejs "NodeJS 18"
+        nodejs "NodeJS 24.11.1"
     }
 
     stages {
 
         stage('Checkout Code') {
             steps {
-                git 'https://github.com/your-repo.git'
+                git 'https://github.com/GvvPrasad/ecommerce-playwright.git'
             }
         }
 
