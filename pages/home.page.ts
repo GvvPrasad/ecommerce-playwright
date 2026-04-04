@@ -1,26 +1,32 @@
 import { Page, Locator } from "@playwright/test";
 
+
+
 export class HomePage {
+
+    readonly url: string;
     readonly page: Page;
     readonly email: Locator;
     readonly password: Locator;
     readonly loginButton: Locator;
-    readonly loginErrorMessage: Locator;
     readonly forgotPasswordLink: Locator;
     readonly signUpLink: Locator;
+    readonly loginErrorMessage: Locator;
 
     constructor(page: Page) {
+
         this.page = page;
+        this.url = 'https://rahulshettyacademy.com/client/#/auth/login';
         this.email = page.getByPlaceholder("email@example.com");
         this.password = page.getByPlaceholder("enter your passsword");
         this.loginButton = page.getByText("Login");
-        this.loginErrorMessage = page.locator("#login-error-message");
         this.forgotPasswordLink = page.getByRole('link', { name: 'Forgot password?' });
         this.signUpLink = page.locator('.text-reset');
+        this.loginErrorMessage = page.locator("#login-error-message");
     }
 
     async gotoHomePage() {
-        await this.page.goto('https://rahulshettyacademy.com/client/#/auth/login');
+        await this.page.goto(this.url);
     }
 
     async login(user: string, pass: string) {

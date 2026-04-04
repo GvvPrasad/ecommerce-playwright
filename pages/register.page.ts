@@ -13,6 +13,9 @@ export class RegisterPage {
     readonly confirmPassword: Locator;
     readonly olderThan18Checkbox: Locator;
     readonly register: Locator;
+    readonly loginlink: Locator;
+    readonly successMessage: Locator;
+    readonly loginbutton: Locator;
 
     constructor(page: Page) {
         this.page = page;
@@ -25,8 +28,11 @@ export class RegisterPage {
         this.female = page.locator('input[type="radio"][value="Female"]');
         this.password = page.locator('input[type="password"][placeholder="Passsword"]');
         this.confirmPassword = page.locator('input[type="password"][placeholder="Confirm Passsword"]');
-        this.olderThan18Checkbox = page.locator('input[type="checkboxx"]');
+        this.olderThan18Checkbox = page.locator('input[type="checkbox"]');
         this.register = page.locator('input[type="submit"][value="Register"]');
+        this.loginlink = page.locator('.text-reset');
+        this.successMessage = page.locator('.headcolor');
+        this.loginbutton = page.getByRole('button', { name: 'Login' });
     }
 
     async loginDetails(fName: string, lName: string, userEmail: string, pNumber: string) {
@@ -62,4 +68,13 @@ export class RegisterPage {
     async clickRegister() {
         await this.register.click();
     }
+
+    async clickLoginLink() {
+        await this.loginlink.click();
+    }
+
+    async clickLoginButton() {
+        await this.loginbutton.click();
+    }
+
 }
