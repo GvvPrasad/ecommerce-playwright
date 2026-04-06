@@ -1,6 +1,12 @@
 import { defineConfig, devices } from '@playwright/test';
 import { config } from './config/environments';
 
+//Read envinornment variables from file
+import dotenv from 'dotenv';
+import path from 'path';
+dotenv.config({path:path.resolve(__dirname,'environments.env')});
+
+
 export default defineConfig({
 
   // Look for test files in the "tests" directory, relative to this configuration file.
