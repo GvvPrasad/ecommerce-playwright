@@ -1,10 +1,7 @@
 import { Page, Locator } from "@playwright/test";
 
-
-
 export class HomePage {
 
-    readonly url: string;
     readonly page: Page;
     readonly email: Locator;
     readonly password: Locator;
@@ -16,7 +13,6 @@ export class HomePage {
     constructor(page: Page) {
 
         this.page = page;
-        this.url = 'https://rahulshettyacademy.com/client/#/auth/login';
         this.email = page.getByPlaceholder("email@example.com");
         this.password = page.getByPlaceholder("enter your passsword");
         this.loginButton = page.getByText("Login");
@@ -26,7 +22,7 @@ export class HomePage {
     }
 
     async gotoHomePage() {
-        await this.page.goto(this.url);
+        await this.page.goto('#/auth/login');
     }
 
     async login(user: string, pass: string) {

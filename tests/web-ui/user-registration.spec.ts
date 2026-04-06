@@ -43,6 +43,4 @@ test('User Registration', async ({ page }) => {
     // Verify login success (this is a placeholder, replace with actual verification)
     await expect(page).toHaveURL('https://rahulshettyacademy.com/client/#/dashboard/dash');
 
-
-
 });

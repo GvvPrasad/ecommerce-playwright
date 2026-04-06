@@ -11,6 +11,9 @@ test('login into the application', async ({ page }) => {
     // Navigate to home page and login
     await homePage.gotoHomePage(); 
     await homePage.login(loginData.validUser.userName,loginData.validUser.password);
-    await expect(page).toHaveURL('https://rahulshettyacademy.com/client/#/dashboard/dash');
+    await expect(page).toHaveURL('#/dashboard/dash');
+
+    //Save authentication state
+    await page.context().storageState({ path: 'auth.json' });
 
 });
