@@ -2,9 +2,9 @@ import { defineConfig, devices } from '@playwright/test';
 import { config } from './config/environments';
 
 //Read envinornment variables from file
-import dotenv from 'dotenv';
-import path from 'path';
-dotenv.config({path:path.resolve(__dirname,'environments.env')});
+// import dotenv from 'dotenv';
+// import path from 'path';
+// dotenv.config({path:path.resolve(__dirname,'environments.env')});
 
 
 export default defineConfig({

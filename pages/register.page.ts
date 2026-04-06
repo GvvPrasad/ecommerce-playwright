@@ -13,7 +13,6 @@ export class RegisterPage {
     readonly confirmPassword: Locator;
     readonly olderThan18Checkbox: Locator;
     readonly register: Locator;
-    readonly loginlink: Locator;
     readonly successMessage: Locator;
     readonly loginbutton: Locator;
 
@@ -30,7 +29,6 @@ export class RegisterPage {
         this.confirmPassword = page.locator('input[type="password"][placeholder="Confirm Passsword"]');
         this.olderThan18Checkbox = page.locator('input[type="checkbox"]');
         this.register = page.locator('input[type="submit"][value="Register"]');
-        this.loginlink = page.locator('.text-reset');
         this.successMessage = page.locator('.headcolor');
         this.loginbutton = page.getByRole('button', { name: 'Login' });
     }
@@ -67,10 +65,6 @@ export class RegisterPage {
 
     async clickRegister() {
         await this.register.click();
-    }
-
-    async clickLoginLink() {
-        await this.loginlink.click();
     }
 
     async clickLoginButton() {
