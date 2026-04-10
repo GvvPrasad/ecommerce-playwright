@@ -11,8 +11,9 @@ export default defineConfig({
 
   // Look for test files in the "tests" directory, relative to this configuration file.
   testDir: './tests',
+  testMatch: '**/*.spec.ts',
 
-   // Run all tests in parallel.
+  // Run all tests in parallel.
   fullyParallel: false,
 
   // Fail the build on CI/CD if you accidentally left test.only in the source code.
@@ -28,12 +29,15 @@ export default defineConfig({
   reporter: [
     ['html'],
     ['json'],
-    ["line"], 
+    ["line"],
     ["allure-playwright"]
   ],
 
-  
+
   use: {
+
+    //for max window size
+    viewport: {width:1920,height:1080},
 
     headless: false,
 
@@ -47,10 +51,10 @@ export default defineConfig({
     screenshot: 'only-on-failure',
   },
 
-   // Configure projects for major browsers
+  // Configure projects for major browsers
   projects: [
-    { name: 'chromium', use: { ...devices['Desktop Chrome'] }},
-/*    { name: 'firefox', use: { ...devices['Desktop Firefox'] } },
-    { name: 'webkit', use: { ...devices['Desktop Safari'] } }, */
+    { name: 'chromium', use: { ...devices['Desktop Chrome'] } },
+    /*    { name: 'firefox', use: { ...devices['Desktop Firefox'] } },
+        { name: 'webkit', use: { ...devices['Desktop Safari'] } }, */
   ],
 });

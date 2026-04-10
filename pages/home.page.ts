@@ -10,6 +10,7 @@ export class HomePage {
     readonly signUpLink: Locator;
     readonly loginErrorMessage: Locator;
 
+
     constructor(page: Page) {
 
         this.page = page;
@@ -18,7 +19,7 @@ export class HomePage {
         this.loginButton = page.getByText("Login");
         this.forgotPasswordLink = page.getByRole('link', { name: 'Forgot password?' });
         this.signUpLink = page.locator('.text-reset');
-        this.loginErrorMessage = page.locator("#login-error-message");
+        this.loginErrorMessage = page.locator("#toast-container");
     }
 
     async gotoHomePage() {
